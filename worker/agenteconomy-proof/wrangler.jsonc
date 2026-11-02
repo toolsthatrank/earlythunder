@@ -1,0 +1,12 @@
+{
+  "name": "earlythunder-agenteconomy-proof",
+  "main": "agenteconomy-proof.mjs",
+  "compatibility_date": "2026-11-02",
+  "workers_dev": false,
+  "routes": [
+    {
+      "pattern": "https://earlythunder.com/.well-known/agenteconomy-verify.txt",
+      "zone_id": "511241a9b83a25b7da6c4e11774dcaa5"
+    }
+  ]
+}
