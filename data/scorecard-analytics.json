@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-01T15:23:50.861Z",
+  "generated_at": "2026-11-02T13:29:05.676Z",
   "source_updated_at": "2026-09-18T14:30:00Z",
   "citation_links": {
-    "checked_at": "2026-10-26T11:05:27.003Z",
-    "dead_count": 56
+    "checked_at": "2026-11-02T13:29:05.542Z",
+    "dead_count": 47
   },
   "market_data": {
     "source": "CoinGecko",
@@ -2304,7 +2304,7 @@
           "claim": "Bitcoin spot ETF AUM peaked at $169.5B in October 2025 and fell to about $77.6B by June 2026",
           "source": "Bloomberg",
           "url": "https://bloomberg.com/crypto/bitcoin-etf",
-          "link_ok": false
+          "link_ok": true
         },
         {
           "claim": "Mining reward halved to 3.125 BTC per block in April 2024",
@@ -22389,7 +22389,7 @@
           "claim": "AI GPU compute demand driving DePIN narrative across crypto markets",
           "source": "Messari",
           "url": "https://messari.io/report/depin",
-          "link_ok": true
+          "link_ok": false
         },
         {
           "claim": "Render Network processes over 1M rendering jobs monthly",
@@ -24956,7 +24956,7 @@
           "claim": "POL circulating supply 38% of total as migration from MATIC continues",
           "source": "Messari",
           "url": "https://messari.io/asset/polygon-system-token",
-          "link_ok": true
+          "link_ok": false
         }
       ],
       "neighbours": [
@@ -27695,13 +27695,13 @@
           "claim": "SEC v. Ripple fully concluded on 7 August 2025 when both sides dropped their appeals, a partial win for Ripple",
           "source": "CoinDesk",
           "url": "https://coindesk.com/ripple-sec",
-          "link_ok": false
+          "link_ok": true
         },
         {
           "claim": "Spot XRP ETFs began trading in the US from 13 November 2025, with about seven funds now live",
           "source": "Bloomberg ETF",
           "url": "https://bloomberg.com/xrp-etf",
-          "link_ok": false
+          "link_ok": true
         },
         {
           "claim": "The first US spot XRP ETF opened for trade in November 2025",
@@ -40859,7 +40859,7 @@
           "claim": "AI agent token narrative drove 300%+ gains in early 2024 before correction",
           "source": "CoinDesk",
           "url": "https://coindesk.com/ai-tokens",
-          "link_ok": false
+          "link_ok": true
         }
       ],
       "neighbours": [
@@ -42070,7 +42070,7 @@
           "claim": "Decentralized GPU compute sector growing with AI demand but io.net competes with Akash, Render, and AWS/Azure",
           "source": "Messari",
           "url": "https://messari.io/report/decentralized-compute",
-          "link_ok": true
+          "link_ok": false
         }
       ],
       "neighbours": [
@@ -56383,7 +56383,7 @@
           "claim": "Multiple exchanges including Binance delisted ZEC in various regions due to regulatory pressure on privacy coins",
           "source": "Coindesk",
           "url": "https://www.coindesk.com/policy/2023/09/zcash-delistings",
-          "link_ok": false
+          "link_ok": true
         },
         {
           "claim": "Zcash shielded supply growth",
@@ -59488,7 +59488,7 @@
           "claim": "Sei circulating supply only 31% with large releases through 2027",
           "source": "Messari",
           "url": "https://messari.io/asset/sei",
-          "link_ok": true
+          "link_ok": false
         },
         {
           "claim": "Sei TVL approximately $128M as of May 2026",
@@ -80310,7 +80310,7 @@
           "claim": "WLD circulating supply is only ~17% of total with massive team/foundation releases through 2028",
           "source": "CoinGecko",
           "url": "https://www.coingecko.com/en/coins/worldcoin-org",
-          "link_ok": false
+          "link_ok": true
         },
         {
           "claim": "EU regulators and South Korea suspended Worldcoin data collection over GDPR biometric data concerns",
@@ -80750,7 +80750,7 @@
           "claim": "Dogecoin has virtually no DeFi network or protocol revenue",
           "source": "DeFiLlama",
           "url": "https://defillama.com/chain/Dogecoin",
-          "link_ok": false
+          "link_ok": true
         }
       ],
       "neighbours": [
@@ -81961,7 +81961,7 @@
           "claim": "FLOKI filed for ETF products with regulators in multiple Asian jurisdictions in 2025",
           "source": "CoinDesk",
           "url": "https://www.coindesk.com/markets/2025/floki-etf-asia",
-          "link_ok": false
+          "link_ok": true
         }
       ],
       "neighbours": [
@@ -92111,7 +92111,7 @@
           "claim": "Manta Network TVL declined from $800M+ peak during new model farming to under $25M by 2026",
           "source": "DefiLlama",
           "url": "https://defillama.com/chain/Manta%20Pacific",
-          "link_ok": false
+          "link_ok": true
         },
         {
           "claim": "MANTA down 97%+ from ATH as liquidity mining incentives dried up and genuine users didn't materialize",
@@ -98563,7 +98563,7 @@
           "claim": "Decentraland's peak concurrent user count in 2025 estimated at 300-800 users despite $165M market cap",
           "source": "CoinDesk",
           "url": "https://www.coindesk.com/tech/2022/10/07/decentralands-metaverse-reportedly-has-only-38-active-users-in-24-hours",
-          "link_ok": false
+          "link_ok": true
         },
         {
           "claim": "MANA down 98.5% from ATH of $5.85 set November 2021; Decentraland DAO controls large MANA treasury",
@@ -99376,7 +99376,7 @@
           "claim": "Wonderland DAO (TIME/MEM) CFO exposed as 0xSifu (Michael Patryn, QuadrigaCX co-founder) in Jan 2022, triggering SPELL collapse",
           "source": "CoinDesk",
           "url": "https://www.coindesk.com/business/2022/01/27/0xsifu-is-michael-patryn-co-founder-of-collapsed-crypto-exchange-quadrigacx",
-          "link_ok": false
+          "link_ok": true
         },
         {
           "claim": "SPELL token is down 99.5% from ATH; Abracadabra TVL fell from $5B+ to ~$85M",
@@ -100214,7 +100214,7 @@
           "claim": "Qtum TVL under $1M, among the lowest of any named L1",
           "source": "DeFiLlama",
           "url": "https://defillama.com/chain/Qtum",
-          "link_ok": false
+          "link_ok": true
         },
         {
           "claim": "Qtum GitHub activity near zero; no major protocol updates since 2022",
@@ -101879,7 +101879,7 @@
           "claim": "Gala Games co-founder Eric Schiermeyer sued Wright Thurston for unauthorized minting of $130M worth of GALA tokens in 2023",
           "source": "CoinDesk",
           "url": "https://www.coindesk.com/business/2023/05/05/gala-games-co-founder-sues-partner-over-130m-in-stolen-tokens",
-          "link_ok": false
+          "link_ok": true
         },
         {
           "claim": "GALA is down 99.6% from ATH of $0.8367; only 32% of total supply is circulating with massive future dilution",
