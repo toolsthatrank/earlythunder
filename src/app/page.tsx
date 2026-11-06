@@ -152,7 +152,6 @@ export default function HomePage() {
   return (
     <>
       <JsonLd data={getWebPageSchema({ name: "Early Thunder", description: "Four autonomous tools score every pre-mainstream opportunity across DeFi, equities, and private markets.", path: "/", dateModified: CONTENT_CHECKED })} />
-      <AnswerBlock answer={PAGE_ANSWER} updated={CONTENT_CHECKED} />
       <HeroSection
         totalOpportunities={opportunities.length}
         topOpportunities={topOpportunities}
@@ -165,6 +164,9 @@ export default function HomePage() {
         topYield={{ name: topYield.name, value: `${topYield.earnings_yield_pct.toLocaleString()}%` }}
       />
       <TickerStrip items={tickerItems} />
+      <div className="section">
+        <AnswerBlock answer={PAGE_ANSWER} updated={CONTENT_CHECKED} />
+      </div>
       <NumbersStrip stats={stats} />
       <WorkbenchCTA placement="homepage" />
       <ClarityActSection />

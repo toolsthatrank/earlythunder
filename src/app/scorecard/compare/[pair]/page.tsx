@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import JsonLd from "@/components/JsonLd";
+import WorkbenchCTA from "@/components/WorkbenchCTA";
 import { PageHeader, SectionLabel, Prose, EyebrowLabel, Section } from "@/components/PageChrome";
 import { SITE_URL, SITE_NAME } from "@/lib/constants";
 import { getScorecardMeta, type ScorecardToken } from "@/lib/scorecard-analytics";
@@ -349,6 +350,12 @@ export default async function ComparePage({ params }: PageParams) {
         </Prose>
         <DuelTable h2h={h2h} />
       </Section>
+
+      <WorkbenchCTA
+        placement="compare"
+        heading={`Compare ${a.symbol} and ${b.symbol} with your own sources.`}
+        body={`The scores above are ours. The Workbench is where you check them. Record each revenue figure for ${a.symbol} and ${b.symbol} with its source and date. Keep fees apart from holder revenue and see which evidence is getting old.`}
+      />
 
       <Section>
         <SectionLabel number="03" title="Market and supply" />

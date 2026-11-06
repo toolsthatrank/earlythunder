@@ -42,7 +42,7 @@ export default function SupportFooter() {
   return (
     <div
       data-support-cta="footer"
-      className="mx-auto flex max-w-[1280px] flex-col gap-5 border-b border-border-subtle px-6 py-10 md:flex-row md:items-center md:justify-between md:px-12"
+      className="mx-auto flex max-w-[1280px] flex-col gap-5 border-b border-border-subtle px-6 py-10 md:px-12 lg:flex-row lg:items-center lg:justify-between"
     >
       <div className="flex max-w-2xl items-start gap-4">
         <Portrait size={44} />
@@ -56,7 +56,7 @@ export default function SupportFooter() {
           </p>
         </div>
       </div>
-      <div className="flex flex-wrap items-center gap-3 md:shrink-0">
+      <div className="flex flex-wrap items-center gap-3 lg:shrink-0">
         <TipButtons />
         <Link
           href="/support"

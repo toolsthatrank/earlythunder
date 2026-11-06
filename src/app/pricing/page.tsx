@@ -59,9 +59,9 @@ const PLANS: readonly Plan[] = [
       "Compare projects on fees, protocol revenue and holder revenue",
       "Export a printable memo, CSV data and a JSON backup",
       "Downloadable ZIP, runs in a desktop browser",
-      "No live data feeds and no buy or sell signals: you enter the evidence",
+      "No live data feeds and no buy or sell signals. You enter the evidence",
     ],
-    cta: { label: "See the Workbench and free preview", href: WORKBENCH_URL, external: true },
+    cta: { label: "Get the Workbench, $29", href: WORKBENCH_URL, external: true },
   },
   {
     name: "Research API for agents",
@@ -152,7 +152,7 @@ function PlanCard({ plan }: { readonly plan: Plan }) {
       </ul>
       <div className="mt-auto pt-8">
         {plan.cta.external ? (
-          <a href={plan.cta.href} className={ctaClass}>
+          <a href={plan.cta.href} className={ctaClass} data-cta="pricing_workbench" data-placement="pricing">
             {plan.cta.label}
           </a>
         ) : (

@@ -92,7 +92,7 @@ export default function DeadlineStrip({ deadlines }: DeadlinesGridProps) {
       <div className="section__head">
         <div>
           <div className="section__eyebrow mono">04, DEADLINE TRACKER</div>
-          <h2 className="section__title">Don&apos;t miss the window</h2>
+          <h2 className="section__title">Upcoming dates to track</h2>
           <p className="section__sub">
             {upcoming.length} active countdowns across token releases, ETF
             rulings, mainnet launches, and governance votes.

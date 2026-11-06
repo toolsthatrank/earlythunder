@@ -4,3 +4,6 @@
 .nav__mobile-panel,.et-nav__panel{max-height:calc(100dvh - 56px);overflow-y:auto;overscroll-behavior:contain}.nav__mobile-cta,.et-nav__panel-links>.et-nav__primary{order:-1;margin-top:0;margin-bottom:12px}
 
 .workbench-offer__fit{margin:16px 0;color:#e2d1b8;font-size:14px;line-height:1.6}.workbench-offer__fit summary{cursor:pointer}.workbench-offer__fit p{margin-top:10px}.workbench-offer__fit summary:focus-visible{outline:3px solid #f5b65b;outline-offset:4px}
+
+.workbench-offer a.workbench-offer__buy,.workbench-offer a.workbench-offer__preview{min-height:48px;box-sizing:border-box}.workbench-offer a.workbench-offer__preview{display:inline-flex;align-items:center;justify-content:center;padding:0 8px}
+.workbench-offer.workbench-offer--inline{max-width:none;margin:40px 0}@media(max-width:1280px){.workbench-offer.workbench-offer--inline{margin-left:0;margin-right:0}}@media(max-width:760px){.workbench-offer.workbench-offer--inline{margin:32px 0}}

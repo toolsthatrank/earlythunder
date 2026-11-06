@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import JsonLd from "@/components/JsonLd";
+import WorkbenchCTA from "@/components/WorkbenchCTA";
 import ScreenTable from "@/components/ScreenTable";
 import { PageHeader, SectionLabel, Prose, EyebrowLabel, Section } from "@/components/PageChrome";
 import { SITE_URL, SITE_NAME } from "@/lib/constants";
@@ -180,6 +181,12 @@ export default async function ScreenPage({ params }: PageParams) {
           with price. Market capitalisation is from the snapshot fetched {formatDate(meta.market_fetched_at)}.
         </p>
       </Section>
+
+      <WorkbenchCTA
+        placement="screen"
+        heading="Check this shortlist against your own evidence."
+        body="A screen gives you names, not a decision. Put the ones you care about into the Workbench. Record each source and its date, and keep fees apart from holder revenue."
+      />
 
       <Section>
         <SectionLabel number="03" title="Common questions" />

@@ -70,7 +70,7 @@ window.ROI_MEASUREMENT_CONFIG = {"site": "earlythunder", "id": "G-CSDRVWLPND", "
           if (observed.has(el) || !document.contains(el)) return;
           observed.add(el);
           io.unobserve(el);
-          send('offer_view', {product_id: config.product, placement: el.classList.contains('workbench-offer--homepage') ? 'homepage' : el.classList.contains('workbench-offer--footer') ? 'footer' : el.classList.contains('product-cta-home') ? 'homepage' : el.classList.contains('studio-purchase') ? 'studio' : 'inline'});
+          send('offer_view', {product_id: config.product, placement: config.site === 'earlythunder' && el.classList.contains('workbench-offer') ? ((el.className.match(/workbench-offer--([a-z]+)/) || [,'inline'])[1]) : el.classList.contains('workbench-offer--homepage') ? 'homepage' : el.classList.contains('workbench-offer--footer') ? 'footer' : el.classList.contains('product-cta-home') ? 'homepage' : el.classList.contains('studio-purchase') ? 'studio' : 'inline'});
         }, 1000));
       });
     }, {threshold: [0, .25, .5, 1]});
@@ -82,6 +82,11 @@ window.ROI_MEASUREMENT_CONFIG = {"site": "earlythunder", "id": "G-CSDRVWLPND", "
       if (!(t instanceof Element)) return;
       var item = label(t);
       if (item) send(item.kind, {product_id: item.product_id, placement: item.placement});
+      var cta = t.closest('[data-cta]');
+      if (cta) {
+        var ctaId = cta.getAttribute('data-cta') || '';
+        if (/^[a-z0-9_]{1,40}$/.test(ctaId)) send('cta_click', {cta_id: ctaId, placement: (cta.getAttribute('data-placement') || 'body').slice(0, 20), product_id: item ? item.product_id : config.product, page_path: location.pathname, transport_type: 'beacon'});
+      }
       if (config.site === 'deepvalueradar' && t.closest('[data-studio-interest]')) send('offer_click', {product_id: 'equity_scenario_studio', placement: 'studio_interest'});
     }, {capture: true});
     document.addEventListener('toggle', function (ev) {

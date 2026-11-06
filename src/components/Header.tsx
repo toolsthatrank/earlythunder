@@ -132,7 +132,7 @@ function DesktopNav() {
 function CtaGroup() {
   return (
     <div className="nav__cta">
-      <a href="https://workbench.earlythunder.com/workbench/?utm_source=earlythunder&amp;utm_medium=website&amp;utm_content=header" className="primary-btn">
+      <a href="https://workbench.earlythunder.com/workbench/?utm_source=earlythunder&amp;utm_medium=website&amp;utm_content=header" className="primary-btn" data-cta="header_workbench" data-placement="header">
         Get the Workbench, $29 {"\u2192"}
       </a>
     </div>
@@ -170,6 +170,8 @@ function MobileNav({ onClose }: { readonly onClose: () => void }) {
           href="https://workbench.earlythunder.com/workbench/?utm_source=earlythunder&amp;utm_medium=website&amp;utm_content=mobile-menu"
           onClick={onClose}
           className="primary-btn nav__mobile-cta"
+          data-cta="mobilemenu_workbench"
+          data-placement="mobilemenu"
         >
           Get the Workbench, $29 {"\u2192"}
         </a>

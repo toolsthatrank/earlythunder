@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import JsonLd from "@/components/JsonLd";
+import WorkbenchCTA from "@/components/WorkbenchCTA";
 import { PageHeader, SectionLabel, Prose, EyebrowLabel, Section } from "@/components/PageChrome";
 import { SITE_URL, SITE_NAME } from "@/lib/constants";
 import {
@@ -364,6 +365,12 @@ export default async function ScorecardTokenPage({ params }: PageParams) {
         </Prose>
         <Breakdown token={token} />
       </Section>
+
+      <WorkbenchCTA
+        placement="token"
+        heading={`Keep your own ${token.symbol} research next to its sources.`}
+        body={`This page gives our score. The Workbench holds your evidence. Record each ${token.symbol} figure with its source and date, and compare it with other projects over the same period.`}
+      />
 
       {(token.key_catalyst || token.key_risk) && (
         <Section>
