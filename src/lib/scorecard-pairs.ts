@@ -360,7 +360,7 @@ export function buildPairFaqs(h2h: HeadToHead): readonly PairFaq[] {
   out.push({
     question: `Is ${a.symbol} or ${b.symbol} the better investment?`,
     answer:
-      `On this framework ${leader.symbol} scores higher: ${leader.score} against ${trailer.score} of ` +
+      `On this framework ${leader.symbol} scores higher, ${leader.score} against ${trailer.score} of ` +
       `${a.max_score}, and it is rated ${leader.verdict} against ${trailer.verdict}. That is a ranking of ` +
       `fundamentals as recorded at the last scoring pass, not a price forecast, and ${a.symbol} still wins ` +
       `${h2h.aWins} of the ${h2h.duels.length} individual variables against ${b.symbol}.`,

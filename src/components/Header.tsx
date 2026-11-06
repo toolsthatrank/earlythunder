@@ -170,6 +170,7 @@ function MobileNav({ onClose }: { readonly onClose: () => void }) {
           href="https://workbench.earlythunder.com/workbench/?utm_source=earlythunder&amp;utm_medium=website&amp;utm_content=mobile-menu"
           onClick={onClose}
           className="primary-btn nav__mobile-cta"
+          id="cta-mobilemenu-workbench"
           data-cta="mobilemenu_workbench"
           data-placement="mobilemenu"
         >

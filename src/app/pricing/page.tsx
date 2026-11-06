@@ -160,7 +160,7 @@ function PlanCard({ plan }: { readonly plan: Plan }) {
       </ul>
       <div className="mt-auto pt-8">
         {plan.cta.external ? (
-          <a href={plan.cta.href} className={ctaClass} id="cta-pricing-workbench" data-cta="pricing_workbench" data-placement="pricing">
+          <a href={plan.cta.href} className="primary-btn w-full" id="cta-pricing-workbench" data-cta="pricing_workbench" data-placement="pricing">
             {plan.cta.label}
           </a>
         ) : (

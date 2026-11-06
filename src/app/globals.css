@@ -1504,3 +1504,9 @@ footer li a { display: inline-flex; align-items: center; min-height: 48px; }
 .workbench-strip a { display: inline-flex; align-items: center; min-height: 48px; padding: 0 18px; border-radius: 8px; background: #f5b65b; color: #17120c; font-weight: 700; font-size: 14px; text-decoration: none; }
 .workbench-strip a:focus-visible { outline: 3px solid #fff; outline-offset: 3px; }
 nav[aria-label="Breadcrumb"] a { display: inline-flex; align-items: center; min-height: 48px; }
+@media (max-width: 600px) {
+  /* L09R2: offer line and buy button above the fold at 390x660 */
+  .hero__title { font-size: 38px; line-height: 1.05; }
+  .hero__sub { font-size: 15px; line-height: 1.5; margin-top: 12px; }
+  .hero__eyebrow { margin-bottom: 14px; }
+}

@@ -216,7 +216,7 @@ function DuelTable({ h2h }: { readonly h2h: HeadToHead }) {
         );
       })}
       <p className="text-xs leading-relaxed text-text-tertiary">
-        Bars read outward from the centre: {h2h.a.symbol} to the left, {h2h.b.symbol} to the right.
+        Bars read outward from the centre, with {h2h.a.symbol} to the left, {h2h.b.symbol} to the right.
         The side that leads a variable is filled. Each score is 1 to 10 against the same definition
         applied to all {h2h.a.universe_size} rated tokens.
       </p>
