@@ -127,7 +127,7 @@ export default function Footer() {
         <div className="footer__brand">
           <div className="logo">EarlyThunder</div>
           <p className="footer__tag">
-            Pre-mainstream opportunity intelligence. Hear the storm before anyone else.
+            Pre-mainstream token research, sourced and dated.
           </p>
           <div className="footer__status mono">
             <span className="dot dot--positive pulse" /> Pipeline operational &middot; 154 protocols &middot; updated daily

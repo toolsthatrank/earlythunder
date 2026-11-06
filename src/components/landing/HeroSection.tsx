@@ -1,4 +1,3 @@
-import Link from "next/link";
 
 /* ─── Types ─── */
 
@@ -175,13 +174,13 @@ function HeroLeft({
     <div className="hero__left">
       <div className="hero__eyebrow">
         <span className="eyebrow-dot" />
-        ALPHA INTELLIGENCE &middot; v2.4 &middot;{" "}
-        {totalOpportunities} OPPORTUNITIES
+        FREE TOKEN RESEARCH &middot;{" "}
+        {totalOpportunities} OPPORTUNITIES SCORED
       </div>
 
       <h1 className="hero__title">
-        <span className="hero__line">Follow the money</span>
-        <span className="hero__line hero__line--accent">that cannot lie.</span>
+        <span className="hero__line">Score the token.</span>
+        <span className="hero__line hero__line--accent">Keep the evidence.</span>
       </h1>
 
       <p className="hero__sub">
@@ -190,13 +189,24 @@ function HeroLeft({
         methodology-linked. Updated daily.
       </p>
 
+      <p className="hero__offer">
+        The research on this site is free. The Token Evidence Workbench is
+        $29 once, a ZIP you keep, with no subscription.
+      </p>
+
       <div className="hero__ctas">
-        <a href="/intelligence/" className="primary-btn primary-btn--lg">
-          Open Intelligence Terminal &rarr;
+        <a
+          href="https://workbench.earlythunder.com/workbench/?utm_source=earlythunder&utm_medium=website&utm_campaign=workbench-fit&utm_content=homehero"
+          className="primary-btn primary-btn--lg"
+          id="cta-homehero-workbench"
+          data-cta="homehero_workbench"
+          data-placement="homehero"
+        >
+          Get the Workbench, $29 &rarr;
         </a>
-        <Link href="/opportunities" className="secondary-btn secondary-btn--lg">
-          Scan {totalOpportunities} Opportunities
-        </Link>
+        <a href="/intelligence/" className="secondary-btn secondary-btn--lg" id="cta-homehero-terminal" data-cta="homehero_terminal" data-placement="homehero">
+          Open the free terminal
+        </a>
       </div>
 
       <RegimeStrip

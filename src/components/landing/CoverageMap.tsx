@@ -64,7 +64,7 @@ function HeatmapCell({
       onMouseLeave={onLeave}
       type="button"
     >
-      <span className="sr-only">{protocol.name}: {protocol.score}</span>
+      <span className="sr-only">{protocol.name} scores {protocol.score}</span>
     </button>
   );
 }

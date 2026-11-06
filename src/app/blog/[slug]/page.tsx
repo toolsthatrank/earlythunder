@@ -6,6 +6,7 @@ import { formatDate } from "@/lib/format";
 import { getBlogPostMetadata } from "@/lib/metadata";
 import { getArticleSchema, getBreadcrumbListSchema } from "@/lib/structured-data";
 import RelatedArticles from "@/components/RelatedArticles";
+import WorkbenchCTA from "@/components/WorkbenchCTA";
 import { SupportResultCard } from "@/components/SupportCta";
 
 interface PageProps {
@@ -58,6 +59,11 @@ export default async function BlogPostPage({ params }: PageProps) {
         tags={post.tags}
       />
       <PostContent content={post.content} />
+      <WorkbenchCTA
+        placement="blog"
+        heading="Keep the evidence behind what you just read."
+        body="The Token Evidence Workbench keeps the source and date of each figure beside your own assumptions, and exports a research memo you can revisit."
+      />
       <SupportResultCard
         heading="Now you have the numbers behind this post."
       />

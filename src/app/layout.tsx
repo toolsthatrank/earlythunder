@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     type: "website",
     siteName: "Early Thunder",
     title: "Early Thunder",
-    description: "Hear the storm before anyone else. Pre-mainstream opportunity intelligence.",
+    description: "Pre-mainstream token research, sourced and dated.",
     url: "https://earlythunder.com",
     images: [{ url: "/og-default.png", width: 1200, height: 630 }],
   },

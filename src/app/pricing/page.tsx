@@ -11,11 +11,11 @@ const TOKEN_COUNT = scorecardData.tokens.length;
 
 /** Direct answer to this page's main question, restated from the page's own facts. */
 const PAGE_ANSWER =
-  "Research on Early Thunder is free and needs no account. The Token Evidence Workbench is $29 once, with no subscription. The research API charges per call: each request answers with an HTTP 402 payment challenge, the agent pays in USDC on Base or Solana, and the live challenge is the authoritative price.";
+  "Research on Early Thunder is free and needs no account. The Token Evidence Workbench is $29 once, with no subscription. The research API charges per call. Each request answers with an HTTP 402 payment challenge, the agent pays in USDC on Base or Solana, and the live challenge is the authoritative price.";
 
 export const metadata: Metadata = {
   title: "Pricing: Free Research, $29 Workbench, Pay-per-call API",
-  description: `The research on Early Thunder is free: the ${TOKEN_COUNT}-token scorecard, token research pages, the CLARITY Act tracker and the calculators. The Token Evidence Workbench is $29 once. The research API for agents is pay per call from $0.01.`,
+  description: `The research on Early Thunder is free. It covers the ${TOKEN_COUNT}-token scorecard, token research pages, the CLARITY Act tracker and the calculators. The Token Evidence Workbench is $29 once. The research API for agents is pay per call from $0.01.`,
   openGraph: {
     title: "Pricing: Free Research, $29 Workbench, Pay-per-call API",
     description: `Free research, a $29 one-time Workbench, and a pay-per-call API from $0.01.`,
@@ -41,10 +41,10 @@ const PLANS: readonly Plan[] = [
     priceNote: "free, no account",
     summary: "Everything you can read on this site.",
     items: [
-      `Altcoin scorecard: ${TOKEN_COUNT} tokens scored on 25 variables`,
+      `Altcoin scorecard with ${TOKEN_COUNT} tokens scored on 25 variables`,
       "Token research pages with sources, risks and supply data",
       "CLARITY Act tracker and regulatory deadlines",
-      "Crypto calculators: profit, DCA, fees, staking, tax and more",
+      "Crypto calculators for profit, DCA, fees, staking, tax and more",
       "Blog and methodology notes",
     ],
     cta: { label: "Open the scorecard", href: "/scorecard", external: false },
@@ -69,11 +69,11 @@ const PLANS: readonly Plan[] = [
     priceNote: "per call, paid in USDC via x402",
     summary: "The same research as JSON, for AI agents and scripts.",
     items: [
-      "Scores for every covered asset: $0.01 per call",
-      "Earnings yields: $0.01 per call",
-      "Catalysts and deadlines: $0.03 per call",
-      "Full scorecard with methodology: $0.05 per call",
-      "One full cited thesis: $0.25 per call",
+      "Scores for every covered asset, $0.01 per call",
+      "Earnings yields, $0.01 per call",
+      "Catalysts and deadlines, $0.03 per call",
+      "Full scorecard with methodology, $0.05 per call",
+      "One full cited thesis, $0.25 per call",
     ],
     cta: { label: "See the API prices", href: "/api-pricing", external: false },
   },
@@ -109,7 +109,7 @@ export default function PricingPage() {
       <AnswerBlock answer={PAGE_ANSWER} updated={CONTENT_CHECKED} />
       <PageHeader
         title="Pricing"
-        lead="Research is free. Tools cost once. Agents pay per call."
+        lead="Three tiers. Research is free. The Workbench costs $29 once. Agents pay per call."
       />
       <div className="mt-12 grid gap-6 md:grid-cols-3">
         {PLANS.map((plan) => (
@@ -117,7 +117,15 @@ export default function PricingPage() {
         ))}
       </div>
       <Section divider>
-        <SectionLabel number="01" title="Questions" />
+        <SectionLabel number="01" title="What happens after you pay for the Workbench" />
+        <ol className="max-w-3xl list-decimal space-y-3 pl-6 text-sm text-text-secondary">
+          <li>You pay $29 once in Stripe Checkout. Stripe handles the card details.</li>
+          <li>Stripe sends you back to a page with your verified ZIP download. Save the ZIP and keep that page address private.</li>
+          <li>Extract the ZIP and open the included HTML file in a desktop browser. The Workbench then works offline.</li>
+        </ol>
+      </Section>
+      <Section divider>
+        <SectionLabel number="02" title="Questions" />
         <div className="max-w-3xl divide-y divide-border/50">
           {FAQ_ITEMS.map((item) => (
             <div key={item.question} className="py-6">
@@ -152,7 +160,7 @@ function PlanCard({ plan }: { readonly plan: Plan }) {
       </ul>
       <div className="mt-auto pt-8">
         {plan.cta.external ? (
-          <a href={plan.cta.href} className={ctaClass} data-cta="pricing_workbench" data-placement="pricing">
+          <a href={plan.cta.href} className={ctaClass} id="cta-pricing-workbench" data-cta="pricing_workbench" data-placement="pricing">
             {plan.cta.label}
           </a>
         ) : (

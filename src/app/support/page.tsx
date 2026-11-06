@@ -64,7 +64,7 @@ export default function SupportPage() {
             <li>Time to check sources and fix numbers on the token research pages.</li>
             <li>Time to keep the daily data refresh running.</li>
           </ul>
-          <p>Tips unlock nothing, and everyone gets the same research.</p>
+          <p>A tip buys nothing extra, and everyone gets the same research.</p>
         </div>
 
         <p className="mt-8 text-sm text-text-secondary">Pick an amount on PayPal:</p>

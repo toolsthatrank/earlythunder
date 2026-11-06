@@ -132,8 +132,8 @@ function DesktopNav() {
 function CtaGroup() {
   return (
     <div className="nav__cta">
-      <a href="https://workbench.earlythunder.com/workbench/?utm_source=earlythunder&amp;utm_medium=website&amp;utm_content=header" className="primary-btn" data-cta="header_workbench" data-placement="header">
-        Get the Workbench, $29 {"\u2192"}
+      <a href="https://workbench.earlythunder.com/workbench/?utm_source=earlythunder&amp;utm_medium=website&amp;utm_content=header" className="primary-btn" id="cta-header-workbench" data-cta="header_workbench" data-placement="header">
+        <span className="cta-long">Get the Workbench, $29 {"\u2192"}</span><span className="cta-short">Workbench $29</span>
       </a>
     </div>
   );

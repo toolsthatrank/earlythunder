@@ -27,7 +27,14 @@ window.ROI_MEASUREMENT_CONFIG = {"site": "earlythunder", "id": "G-CSDRVWLPND", "
     var r = new URL(document.referrer);
     if (r.protocol === 'https:' || r.protocol === 'http:') referrer = r.origin + r.pathname;
   } catch (e) {}
-  var base = {site_id: config.site, event_schema_version: '1', qa_marker: 'false'};
+  /* Test traffic (traffic_type=internal or a utm_source that ends in qa) is sent, marked internal, for the GA4 internal-traffic filter. */
+  var internal = false;
+  try {
+    internal = /(?:^|[?&])traffic_type=internal(?:&|$)/.test(location.search) || /(?:^|[?&])utm_source=[a-z0-9_-]*qa(?:&|$)/i.test(location.search) || sessionStorage.getItem('roi_internal') === '1';
+    if (internal) sessionStorage.setItem('roi_internal', '1');
+  } catch (e) {}
+  var base = {site_id: config.site, event_schema_version: '1', qa_marker: internal ? 'true' : 'false'};
+  if (internal) base.traffic_type = 'internal';
   function send(name, extra) {
     if (!active || typeof window.gtag !== 'function') return;
     var params = Object.assign({}, base, extra || {});
@@ -85,7 +92,23 @@ window.ROI_MEASUREMENT_CONFIG = {"site": "earlythunder", "id": "G-CSDRVWLPND", "
       var cta = t.closest('[data-cta]');
       if (cta) {
         var ctaId = cta.getAttribute('data-cta') || '';
-        if (/^[a-z0-9_]{1,40}$/.test(ctaId)) send('cta_click', {cta_id: ctaId, placement: (cta.getAttribute('data-placement') || 'body').slice(0, 20), product_id: item ? item.product_id : config.product, page_path: location.pathname, transport_type: 'beacon'});
+        if (/^[a-z0-9_]{1,40}$/.test(ctaId)) {
+          var ctaParams = {cta_id: ctaId, placement: (cta.getAttribute('data-placement') || 'body').slice(0, 20), product_id: item ? item.product_id : config.product, page_path: location.pathname, transport_type: 'beacon'};
+          /* A click that leaves the site before gtag.js has loaded would drop the event. Hold the
+             navigation until gtag confirms the hit, at most 700 ms. Only after consent. */
+          var a = cta.closest('a[href]');
+          var off = null;
+          try { off = a ? new URL(a.href, location.href) : null; } catch (e) { off = null; }
+          var leaving = active && off && off.host !== location.host && !a.target && ev.button === 0 && !(ev.metaKey || ev.ctrlKey || ev.shiftKey || ev.altKey) && !window.google_tag_manager;
+          if (leaving) {
+            ev.preventDefault();
+            var gone = false;
+            var go = function () { if (!gone) { gone = true; location.href = off.href; } };
+            ctaParams.event_callback = go;
+            setTimeout(go, 700);
+          }
+          send('cta_click', ctaParams);
+        }
       }
       if (config.site === 'deepvalueradar' && t.closest('[data-studio-interest]')) send('offer_click', {product_id: 'equity_scenario_studio', placement: 'studio_interest'});
     }, {capture: true});

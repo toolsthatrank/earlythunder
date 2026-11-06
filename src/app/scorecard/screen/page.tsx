@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import JsonLd from "@/components/JsonLd";
+import WorkbenchCTA from "@/components/WorkbenchCTA";
 import { PageHeader, SectionLabel, Prose, EyebrowLabel, Section } from "@/components/PageChrome";
 import { SITE_URL, SITE_NAME } from "@/lib/constants";
 import { getAllScreens, getScreensMeta, getMispricing } from "@/lib/scorecard-screens";
@@ -93,6 +94,12 @@ export default function ScreenIndexPage() {
         title={TITLE}
         lead={`Each screen is one question with a stated rule, run against the same ${meta.universe_size} tokens scored on the same 25 variables. No screen is a recommendation, and every member links to its full scorecard.`}
         meta={`Scoring pass ${formatDate(meta.source_updated_at)}. Market snapshot ${formatDate(meta.market_fetched_at)}.`}
+      />
+
+      <WorkbenchCTA
+        placement="screenhub"
+        heading="Found a screen that fits your question?"
+        body="Take its members into the Token Evidence Workbench. Keep the source and date of each figure, compare your own assumptions, and export a research memo."
       />
 
       {mispricing !== null && (

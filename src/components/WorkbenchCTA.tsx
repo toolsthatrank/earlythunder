@@ -12,7 +12,7 @@ type WorkbenchCTAProps = {
 const DEFAULT_HEADING = "Turn what you read into research you can use.";
 const DEFAULT_BODY =
   "Keep sources, compare token assumptions, and export your own research memo. An offline workspace for the evidence behind your decisions.";
-const INLINE_PLACEMENTS = new Set(["compare", "screen", "token"]);
+const INLINE_PLACEMENTS = new Set(["compare", "screen", "token", "screenhub", "blog"]);
 
 export default function WorkbenchCTA({ placement = "footer", heading, body }: WorkbenchCTAProps) {
   const safePlacement = /^[a-z]{1,20}$/.test(placement) ? placement : "inline";
@@ -36,6 +36,7 @@ export default function WorkbenchCTA({ placement = "footer", heading, body }: Wo
         <a
           className="workbench-offer__buy"
           href={PRODUCT_URL + tracking}
+          id={`cta-${safePlacement}-workbench`}
           data-cta={`${safePlacement}_workbench`}
           data-placement={safePlacement}
         >
@@ -44,6 +45,7 @@ export default function WorkbenchCTA({ placement = "footer", heading, body }: Wo
         <a
           className="workbench-offer__preview"
           href={PRODUCT_URL + "preview/" + tracking}
+          id={`cta-${safePlacement}-preview`}
           data-cta={`${safePlacement}_preview`}
           data-placement={safePlacement}
         >
