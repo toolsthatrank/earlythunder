@@ -11,7 +11,7 @@ const TOKEN_COUNT = scorecardData.tokens.length;
 
 /** Direct answer to this page's main question, restated from the page's own facts. */
 const PAGE_ANSWER =
-  "Research on Early Thunder is free and needs no account. The Token Evidence Workbench is $29 once, with no subscription. The research API charges per call. Each request answers with an HTTP 402 payment challenge, the agent pays in USDC on Base or Solana, and the live challenge is the authoritative price.";
+  "Research is free and needs no account. The Token Evidence Workbench is $29 once, with no subscription. It adds your own sources, assumptions and research memos. Agents can pay the research API per call from $0.01.";
 
 export const metadata: Metadata = {
   title: "Pricing: Free Research, $29 Workbench, Pay-per-call API",

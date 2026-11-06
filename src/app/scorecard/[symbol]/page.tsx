@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import WorkbenchStrip from "@/components/WorkbenchStrip";
 import JsonLd from "@/components/JsonLd";
 import WorkbenchCTA from "@/components/WorkbenchCTA";
 import { PageHeader, SectionLabel, Prose, EyebrowLabel, Section } from "@/components/PageChrome";
@@ -279,6 +280,8 @@ export default async function ScorecardTokenPage({ params }: PageParams) {
         sub={headline.rest || undefined}
         meta={`Ranked ${ordinal(token.rank_overall)} of ${token.universe_size} rated tokens. Scoring pass ${formatDate(meta.source_updated_at)}.`}
       />
+
+      <WorkbenchStrip placement="token" symbol={token.symbol} />
 
       <Section>
         <div className="grid grid-cols-2 gap-4 md:grid-cols-4">

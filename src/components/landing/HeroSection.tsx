@@ -184,8 +184,8 @@ function HeroLeft({
       </h1>
 
       <p className="hero__sub">
-        Four autonomous tools score every pre-mainstream opportunity across
-        DeFi, equities, and private markets. Sourced, timestamped,
+        Four tools score the opportunities we cover across DeFi, equities
+        and private markets. Sourced, timestamped,
         methodology-linked. Updated daily.
       </p>
 

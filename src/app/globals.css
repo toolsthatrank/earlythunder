@@ -14,7 +14,7 @@
   /* Text */
   --color-text-primary: #F0F0F3;
   --color-text-secondary: #9496A1;
-  --color-text-tertiary: #5C5E6A;
+  --color-text-tertiary: #8A8C99; /* L09R2: was #5C5E6A, about 3:1 on the page background */
   --color-text-disabled: #3D3F4A;
 
   /* Accent */
@@ -1497,3 +1497,10 @@ a:hover .arr, button:hover .arr { transform: translateX(3px); }
 .nav__mobile-toggle { min-width: 48px; min-height: 48px; }
 .primary-btn, .secondary-btn, .workbench-offer__buy, .workbench-offer__preview { min-height: 48px; display: inline-flex; align-items: center; justify-content: center; }
 footer li a { display: inline-flex; align-items: center; min-height: 48px; }
+
+.workbench-strip { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 18px; margin: 20px 0 8px; padding: 12px 16px; border: 1px solid #53412a; border-radius: 12px; background: #17140f; }
+.workbench-strip p { flex: 1 1 260px; margin: 0; font-size: 14.5px; line-height: 1.5; color: #c9c9d1; }
+.workbench-strip p b { color: #f0f0f3; }
+.workbench-strip a { display: inline-flex; align-items: center; min-height: 48px; padding: 0 18px; border-radius: 8px; background: #f5b65b; color: #17120c; font-weight: 700; font-size: 14px; text-decoration: none; }
+.workbench-strip a:focus-visible { outline: 3px solid #fff; outline-offset: 3px; }
+nav[aria-label="Breadcrumb"] a { display: inline-flex; align-items: center; min-height: 48px; }

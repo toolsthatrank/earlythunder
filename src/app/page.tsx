@@ -136,7 +136,7 @@ function buildPageData() {
 
 /** Direct answer to this page's main question, restated from the page's own facts. */
 const PAGE_ANSWER =
-  "Early Thunder is an intelligence terminal that scores pre-mainstream opportunities across DeFi, equities and private markets. Four autonomous tools scan 247 protocols and track convergence events, deadlines and yield. The site publishes 247 scored opportunities and 58 convergence events, and the pipeline is updated daily. The Workbench costs $29 once, with no subscription.";
+  "Early Thunder is a free research site that scores pre-mainstream opportunities across DeFi, equities and private markets. Four tools scan 247 protocols and track convergence events, deadlines and yield. The site publishes 247 scored opportunities and 58 convergence events, and the pipeline is updated daily. The Workbench costs $29 once, with no subscription.";
 
 export const metadata = {
   alternates: { canonical: "/" },
@@ -151,7 +151,7 @@ export default function HomePage() {
 
   return (
     <>
-      <JsonLd data={getWebPageSchema({ name: "Early Thunder", description: "Four autonomous tools score every pre-mainstream opportunity across DeFi, equities, and private markets.", path: "/", dateModified: CONTENT_CHECKED })} />
+      <JsonLd data={getWebPageSchema({ name: "Early Thunder", description: "Four tools score the pre-mainstream opportunities we cover across DeFi, equities, and private markets.", path: "/", dateModified: CONTENT_CHECKED })} />
       <HeroSection
         totalOpportunities={opportunities.length}
         topOpportunities={topOpportunities}

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     default: "Early Thunder",
     template: "%s | Early Thunder",
   },
-  description: "Pre-mainstream opportunity intelligence. Tracks asymmetric opportunities across crypto, deep tech, and emerging markets.",
+  description: "Free research on pre-mainstream opportunities across crypto, deep tech and emerging markets, with sources and dates.",
   keywords: [
     "investment intelligence",
     "asymmetric opportunities",
@@ -66,7 +66,7 @@ export default function RootLayout({
               "@id": "https://earlythunder.com/#website",
               name: "Early Thunder",
               url: "https://earlythunder.com",
-              description: "Pre-mainstream opportunity intelligence. Tracks asymmetric opportunities across crypto, deep tech, and emerging markets.",
+              description: "Free research on pre-mainstream opportunities across crypto, deep tech and emerging markets, with sources and dates.",
               // One Organization node for the whole site. It carries the @id that
               // every page-level WebPage node points at with `about`, and it holds
               // the legal name (also the name printed in the footer and on
