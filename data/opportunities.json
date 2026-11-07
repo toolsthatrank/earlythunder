@@ -149,7 +149,7 @@
         "type": "news"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 2243.05,
     "market_cap_usd": 274095988872,
@@ -427,7 +427,7 @@
         "type": "filing"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 75869,
     "market_cap_usd": 1525664536982,
@@ -653,7 +653,7 @@
         "type": "official"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 77.79,
     "market_cap_usd": 18624276865,
@@ -920,7 +920,7 @@
         "type": "research"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 89.85,
     "market_cap_usd": 53098366464,
@@ -1097,7 +1097,7 @@
         "type": "primary"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 131.33,
     "market_cap_usd": 2027805649,
@@ -1581,7 +1581,7 @@
         "type": "news"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 7.03,
     "market_cap_usd": 4275398885,
@@ -1837,7 +1837,7 @@
       "aave"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 10.88,
     "market_cap_usd": 8344768414,
@@ -2097,7 +2097,7 @@
         "type": "data"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 1.64,
     "market_cap_usd": 285544100,
@@ -2220,7 +2220,7 @@
         "type": "news"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "celo",
     "current_price_usd": 0.068266,
@@ -2429,7 +2429,7 @@
         "type": "data"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 2.11,
     "market_cap_usd": 1488234884,
@@ -2826,7 +2826,7 @@
         "type": "reference"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.00222133,
     "market_cap_usd": 730968,
@@ -3043,7 +3043,7 @@
         "type": "data"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.240973,
     "market_cap_usd": 799877599,
@@ -3301,7 +3301,7 @@
         "type": "official"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.597121,
     "market_cap_usd": 183964835,
@@ -3475,7 +3475,7 @@
         "type": "official"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 2468.84,
     "market_cap_usd": 523377281,
@@ -3680,7 +3680,7 @@
         "type": "official"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.246751,
     "market_cap_usd": 183941532,
@@ -4078,7 +4078,7 @@
         "type": "data"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 2.18,
     "market_cap_usd": 86400000,
@@ -4350,7 +4350,7 @@
       "aerodrome"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 1.76,
     "market_cap_usd": 475719766,
@@ -4456,7 +4456,7 @@
         "type": "data"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.180167,
     "market_cap_usd": 17809982,
@@ -4636,7 +4636,7 @@
         "type": "official"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 1.048,
     "market_cap_usd": 10478999,
@@ -4709,7 +4709,7 @@
       "akash-network",
       "eigenlayer"
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "citations": [
       {
@@ -5109,7 +5109,7 @@
       "ethereum"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.161227,
     "market_cap_usd": 2176568578,
@@ -5176,7 +5176,7 @@
       "arweave"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.597516,
     "market_cap_usd": 196704608,
@@ -5393,7 +5393,7 @@
       "ethereum"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.861065,
     "market_cap_usd": 3563986039,
@@ -5688,7 +5688,7 @@
       "morpho"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.583549,
     "market_cap_usd": 582694543,
@@ -5920,7 +5920,7 @@
         "type": "official"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 1.1,
     "market_cap_usd": 3143498566,
@@ -6078,7 +6078,7 @@
       "eth"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.167771,
     "market_cap_usd": 1156298395,
@@ -6145,7 +6145,7 @@
       "fetch-ai"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 3.18,
     "market_cap_usd": 208881386,
@@ -6340,7 +6340,7 @@
       "altos-labs",
       "loyal"
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "citations": [
       {
@@ -6607,7 +6607,7 @@
         "type": "data"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.06361,
     "market_cap_usd": 1489677297,
@@ -6860,7 +6860,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "grass-network",
     "related_slugs": [],
@@ -6926,7 +6926,7 @@
       "sky"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.265884,
     "market_cap_usd": 421377997,
@@ -6994,7 +6994,7 @@
       "dot"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 8.26,
     "market_cap_usd": 3668129096,
@@ -7061,7 +7061,7 @@
       "eth"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.102583,
     "market_cap_usd": 234994335,
@@ -7128,7 +7128,7 @@
       "arbitrum"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.085044,
     "market_cap_usd": 67248954,
@@ -7259,7 +7259,7 @@
       "geodnet",
       "dimo"
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "citations": [
       {
@@ -7540,7 +7540,7 @@
         "type": "data"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "megaeth",
     "current_price_usd": 0.04848266,
@@ -7612,7 +7612,7 @@
         "type": "data"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.325416,
     "market_cap_usd": 269954271,
@@ -7690,7 +7690,7 @@
       "sol"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 694.44,
     "market_cap_usd": 91326625138,
@@ -7759,7 +7759,7 @@
       "maple-finance",
       "babylon"
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "citations": [
       {
@@ -7887,7 +7887,7 @@
       "jupiter"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 8.21,
     "market_cap_usd": 821349405,
@@ -7954,7 +7954,7 @@
       "akash"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.145085,
     "market_cap_usd": 335366120,
@@ -8014,7 +8014,7 @@
       "aave"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.166887,
     "market_cap_usd": 96958006,
@@ -8082,7 +8082,7 @@
       "hype"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.095012,
     "market_cap_usd": 4621212,
@@ -8150,7 +8150,7 @@
       "morpho"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.01607251,
     "market_cap_usd": 55280924,
@@ -8218,7 +8218,7 @@
       "bittensor",
       "render-network"
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "citations": [
       {
@@ -8345,7 +8345,7 @@
       "bittensor",
       "akash-network"
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "citations": [
       {
@@ -8517,7 +8517,7 @@
       "sui"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.443478,
     "market_cap_usd": 438866861,
@@ -8576,7 +8576,7 @@
       "the-graph"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 4.59,
     "market_cap_usd": 194085417,
@@ -8795,7 +8795,7 @@
       "ethereum"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.602115,
     "market_cap_usd": 532332718,
@@ -8854,7 +8854,7 @@
       "atom"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 1.17,
     "market_cap_usd": 74117885846,
@@ -8913,7 +8913,7 @@
       "rune"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.337321,
     "market_cap_usd": 634491475,
@@ -8972,7 +8972,7 @@
       "arbitrum"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.01903153,
     "market_cap_usd": 208230115,
@@ -9218,7 +9218,7 @@
       "render-network",
       "bittensor"
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "citations": [
       {
@@ -9443,7 +9443,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "gensyn",
     "related_slugs": [],
@@ -9520,7 +9520,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "hairdao",
     "related_slugs": [],
@@ -9594,7 +9594,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "near-protocol-ai-pivot",
     "related_slugs": [],
@@ -9683,7 +9683,7 @@
         "type": "github"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "near-protocol",
     "related_slugs": [],
@@ -9857,7 +9857,7 @@
         "type": "news"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "espresso-systems",
     "related_slugs": [],
@@ -10023,7 +10023,7 @@
       "hivemapper",
       "geodnet"
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "citations": [
       {
@@ -10147,7 +10147,7 @@
         "type": "research"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "huma-finance",
     "current_price_usd": 0.01250652,
@@ -10219,7 +10219,7 @@
       "injective"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.04592334,
     "market_cap_usd": 309217148,
@@ -10279,7 +10279,7 @@
       "jupiter"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.064224,
     "market_cap_usd": 505759820,
@@ -10339,7 +10339,7 @@
       "eth"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.903804,
     "market_cap_usd": 1546408516,
@@ -10398,7 +10398,7 @@
       "render"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.145317,
     "market_cap_usd": 145316782,
@@ -10458,7 +10458,7 @@
       "inj"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 1.38,
     "market_cap_usd": 748530515,
@@ -10519,7 +10519,7 @@
       "geodnet",
       "dimo"
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "citations": [
       {
@@ -10635,7 +10635,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "united-therapeutics",
     "current_price_usd": 562.02,
@@ -10810,7 +10810,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "unusual-machines",
     "current_price_usd": 11.9,
@@ -10907,7 +10907,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "ouster",
     "current_price_usd": 34.795,
@@ -10992,7 +10992,7 @@
         "type": "research"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "american-superconductor",
     "current_price_usd": 23.39,
@@ -11161,7 +11161,7 @@
         "type": "filing"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "evolv-technology",
     "current_price_usd": 4.56,
@@ -11441,7 +11441,7 @@
         "type": "research"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "haqq-islamic-coin",
     "current_price_usd": 0.0037968,
@@ -11514,7 +11514,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "energy-recovery",
     "current_price_usd": 7.15,
@@ -11651,7 +11651,7 @@
       "banana"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.071886,
     "market_cap_usd": 11260850071,
@@ -11710,7 +11710,7 @@
       "bitcoin"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 2.44,
     "market_cap_usd": 1359955694,
@@ -11769,7 +11769,7 @@
       "lido-dao"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 1.38,
     "market_cap_usd": 31699412,
@@ -11837,7 +11837,7 @@
       "ssv-network"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.104724,
     "market_cap_usd": 8023107,
@@ -11914,7 +11914,7 @@
         "type": "data"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "niagen-bioscience",
     "current_price_usd": 2.07,
@@ -12174,7 +12174,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "elizaos-token",
     "related_slugs": [],
@@ -12307,7 +12307,7 @@
       "ethereum"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 20.32,
     "market_cap_usd": 203158065,
@@ -12458,7 +12458,7 @@
         "type": "research"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "bio-protocol",
     "related_slugs": [],
@@ -12577,7 +12577,7 @@
         "type": "news"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "sprott-uranium-trust",
     "related_slugs": [],
@@ -12670,7 +12670,7 @@
         "type": "research"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "worldcoin-world",
     "related_slugs": [],
@@ -12746,7 +12746,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "namada",
     "related_slugs": [],
@@ -12876,7 +12876,7 @@
       "eth"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 3.05,
     "market_cap_usd": 12254465,
@@ -12947,7 +12947,7 @@
       "eigenlayer",
       "ondo-finance"
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "citations": [
       {
@@ -13487,7 +13487,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "goldfinch",
     "related_slugs": [],
@@ -13561,7 +13561,7 @@
       "babylon",
       "bittensor"
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "citations": [
       {
@@ -13872,7 +13872,7 @@
         "type": "data"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "cow-protocol",
     "related_slugs": [
@@ -14437,7 +14437,7 @@
         "type": "official"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "berachain",
     "current_price_usd": 0.114241,
@@ -14501,7 +14501,7 @@
       "avax"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.182354,
     "market_cap_usd": 6853542493,
@@ -14560,7 +14560,7 @@
       "stellar"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.094126,
     "market_cap_usd": 854499485,
@@ -14619,7 +14619,7 @@
       "yearn-finance"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 1.81,
     "market_cap_usd": 168324177,
@@ -14687,7 +14687,7 @@
       "compound"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.994449,
     "market_cap_usd": 23901336,
@@ -14933,7 +14933,7 @@
         "type": "github"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "filecoin",
     "related_slugs": [],
@@ -15021,7 +15021,7 @@
         "type": "news"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "denison-mines",
     "related_slugs": [],
@@ -15113,7 +15113,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "io-net",
     "related_slugs": [],
@@ -15195,7 +15195,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "arkreen",
     "current_price_usd": 0.00012766,
@@ -15268,7 +15268,7 @@
         "type": "filing"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "lanzatech",
     "current_price_usd": 5.02,
@@ -15332,7 +15332,7 @@
       "nexgen-energy",
       "denison-mines"
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "citations": [
       {
@@ -15456,7 +15456,7 @@
         "type": "github"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "autonolas",
     "related_slugs": [],
@@ -15523,7 +15523,7 @@
       "aave"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 2014.53,
     "market_cap_usd": 72281680,
@@ -15614,7 +15614,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "redwire",
     "current_price_usd": 7.21,
@@ -15706,7 +15706,7 @@
         "type": "github"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "aleo",
     "related_slugs": [],
@@ -15879,7 +15879,7 @@
         "type": "github"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "mina-protocol",
     "related_slugs": [],
@@ -16183,7 +16183,7 @@
         "type": "research"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "researchhub",
     "related_slugs": [],
@@ -16422,7 +16422,7 @@
         "type": "research"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.00671299,
     "market_cap_usd": 3745980,
@@ -16485,7 +16485,7 @@
       "ray"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.01989821,
     "market_cap_usd": 19206097,
@@ -16552,7 +16552,7 @@
       "gala-games"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.119762,
     "market_cap_usd": 108321825,
@@ -16611,7 +16611,7 @@
       "curve-dao"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.24006,
     "market_cap_usd": 22463069,
@@ -16678,7 +16678,7 @@
       "aerodrome"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.00410444,
     "market_cap_usd": 2649128,
@@ -16746,7 +16746,7 @@
       "aave"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.01028686,
     "market_cap_usd": 8395804,
@@ -16912,7 +16912,7 @@
         "type": "news"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "cameco",
     "related_slugs": [],
@@ -16995,7 +16995,7 @@
         "type": "news"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "acurast",
     "related_slugs": [],
@@ -17088,7 +17088,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "spacecoin",
     "current_price_usd": 0.00336784,
@@ -17297,7 +17297,7 @@
       "denison-mines",
       "energy-fuels"
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "citations": [
       {
@@ -17410,7 +17410,7 @@
         "type": "news"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "silencio",
     "current_price_usd": 0.00031249,
@@ -17561,7 +17561,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "mp-materials",
     "current_price_usd": 35.41,
@@ -17655,7 +17655,7 @@
         "type": "news"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "twist-bioscience",
     "current_price_usd": 120.79,
@@ -17884,9 +17884,9 @@
       "dogecoin"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
-    "current_price_usd": 0.00000492,
+    "current_price_usd": 4.92e-06,
     "market_cap_usd": 2069511277,
     "volume_24h_usd": 275708307,
     "citation_types": [],
@@ -17943,7 +17943,7 @@
       "curve-dao"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.079356,
     "market_cap_usd": 111541390,
@@ -18016,7 +18016,7 @@
       "concrete",
       "upshift"
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "citations": [
       {
@@ -18731,7 +18731,7 @@
         "type": "research"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "anoma",
     "related_slugs": [],
@@ -18797,9 +18797,9 @@
       "banana"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
-    "current_price_usd": 0.00000449,
+    "current_price_usd": 4.49e-06,
     "market_cap_usd": 2647071687,
     "volume_24h_usd": 37408238,
     "citation_types": [],
@@ -18856,9 +18856,9 @@
       "solana"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
-    "current_price_usd": 0.00000281,
+    "current_price_usd": 2.81e-06,
     "market_cap_usd": 247411417,
     "volume_24h_usd": 18212006,
     "citation_types": [],
@@ -18915,7 +18915,7 @@
       "axie-infinity"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.00722618,
     "market_cap_usd": 21151909,
@@ -18975,7 +18975,7 @@
       "uniswap"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.118271,
     "market_cap_usd": 8259258,
@@ -19137,7 +19137,7 @@
         "type": "news"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "paladin-energy",
     "related_slugs": [],
@@ -19316,11 +19316,11 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "qubic",
     "related_slugs": [],
-    "current_price_usd": 3.7881e-7,
+    "current_price_usd": 3.7881e-07,
     "market_cap_usd": 55529477,
     "volume_24h_usd": 1001105,
     "citation_types": {
@@ -19716,7 +19716,7 @@
         "type": "news"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "brainchip",
     "current_price_usd": 0.86,
@@ -19919,7 +19919,7 @@
       "d-wave-quantum",
       "quera-computing"
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "citations": [
       {
@@ -20168,7 +20168,7 @@
         "type": "research"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "virtuals-protocol",
     "related_slugs": [],
@@ -20732,7 +20732,7 @@
         "type": "news"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "perovskite-solar",
     "current_price_usd": 201.14,
@@ -20821,7 +20821,7 @@
         "type": "data"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 7.99,
     "market_cap_usd": 85479766,
@@ -20903,7 +20903,7 @@
         "type": "data"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.329432,
     "market_cap_usd": 7902664,
@@ -21032,7 +21032,7 @@
       "dogecoin"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.160458,
     "market_cap_usd": 160285604,
@@ -21092,7 +21092,7 @@
       "balancer"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.179733,
     "market_cap_usd": 51538539,
@@ -21258,7 +21258,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "marvell-celestial-ai",
     "current_price_usd": 141.2,
@@ -21321,7 +21321,7 @@
       "ionq",
       "quera-computing"
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "citations": [
       {
@@ -21516,11 +21516,11 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "opulous",
     "related_slugs": [],
-    "current_price_usd": 0.00003452,
+    "current_price_usd": 3.452e-05,
     "market_cap_usd": 17261.22,
     "volume_24h_usd": 3.01,
     "citation_types": {
@@ -21973,7 +21973,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "zora-attention-markets",
     "related_slugs": [],
@@ -22129,7 +22129,7 @@
       "immutable-x"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.829927,
     "market_cap_usd": 145733113,
@@ -22291,7 +22291,7 @@
         "type": "filing"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "ginkgo-bioworks",
     "current_price_usd": 11.29,
@@ -22423,9 +22423,9 @@
       "bonk"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
-    "current_price_usd": 0.00002141,
+    "current_price_usd": 2.141e-05,
     "market_cap_usd": 206483809,
     "volume_24h_usd": 10679013,
     "citation_types": [],
@@ -22483,7 +22483,7 @@
       "yearn-finance"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.096158,
     "market_cap_usd": 6600786,
@@ -22702,7 +22702,7 @@
         "type": "news"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "usa-rare-earth",
     "current_price_usd": 8.225,
@@ -22787,7 +22787,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "nuscale-power",
     "related_slugs": [],
@@ -22950,7 +22950,7 @@
         "url": ""
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "valleydao",
     "related_slugs": [],
@@ -23195,7 +23195,7 @@
       "immutable-x"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.00156095,
     "market_cap_usd": 79812821,
@@ -23254,7 +23254,7 @@
       "axie-infinity"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.04267033,
     "market_cap_usd": 125350044,
@@ -23485,7 +23485,7 @@
       "axie-infinity"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.071305,
     "market_cap_usd": 139636529,
@@ -23775,11 +23775,11 @@
         "type": "filing"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "ess-inc",
     "related_slugs": [],
-    "current_price_usd": 0.1567,
+    "current_price_usd": 0.03999999910593033,
     "market_cap_usd": 34935188,
     "volume_24h_usd": 1523385,
     "citation_types": {
@@ -23993,7 +23993,7 @@
         "type": "data"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.03404648,
     "market_cap_usd": 202203476,
@@ -24203,7 +24203,7 @@
       "aave"
     ],
     "citations": [],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.00495262,
     "market_cap_usd": 874470,
@@ -24628,7 +24628,7 @@
         "type": "research"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "slug": "story-protocol",
     "related_slugs": [],
@@ -25402,7 +25402,7 @@
         "type": "data"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 0.02211116,
     "market_cap_usd": 11443956,
@@ -25540,7 +25540,7 @@
         "type": "data"
       }
     ],
-    "current_price_usd": 0.00004062,
+    "current_price_usd": 4.062e-05,
     "market_cap_usd": 224164586,
     "volume_24h_usd": 6058255,
     "citation_types": {
@@ -25742,7 +25742,7 @@
         "type": "data"
       }
     ],
-    "updated_at": "2026-11-06T00:00:00Z",
+    "updated_at": "2026-11-07T00:00:00Z",
     "is_graveyard": false,
     "current_price_usd": 3.23,
     "market_cap_usd": 807360852,
