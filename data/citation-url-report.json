@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-11-02T13:29:05.542Z",
+  "checked_at": "2026-11-09T13:52:46.486Z",
   "total": 746,
-  "ok": 501,
+  "ok": 497,
   "dead": [
     {
       "url": "https://fortune.com/crypto/2026/05/20/ice-ceo-jeffrey-sprecher-hyperliquid/",
@@ -25,6 +25,30 @@
       "source": "Lido Integrations",
       "cited_by": [
         "WSTETH"
+      ]
+    },
+    {
+      "url": "https://www.mexc.com/news/290227",
+      "status": 410,
+      "source": "MEXC",
+      "cited_by": [
+        "AAVE"
+      ]
+    },
+    {
+      "url": "https://www.mexc.com/news/1073029",
+      "status": 410,
+      "source": "MEXC / CoinLaw",
+      "cited_by": [
+        "MKR"
+      ]
+    },
+    {
+      "url": "https://www.mexc.co/en-IN/news/369263",
+      "status": 410,
+      "source": "CoinLaw",
+      "cited_by": [
+        "MKR"
       ]
     },
     {
@@ -68,6 +92,14 @@
       ]
     },
     {
+      "url": "https://www.mexc.com/news/365074",
+      "status": 410,
+      "source": "MEXC Research",
+      "cited_by": [
+        "JUP"
+      ]
+    },
+    {
       "url": "https://globalfintechseries.com/finance/sky-system-is-generating-435m-in-annualized-protocol-revenue-and-168m-in-annualized-protocol-profits/",
       "status": 404,
       "source": "GlobalFintechSeries (SFF PR)",
@@ -100,17 +132,17 @@
       ]
     },
     {
-      "url": "https://www.avax.network/community-hub/events",
-      "status": 404,
-      "source": "Avax.network",
-      "cited_by": [
-        "AVAX"
-      ]
-    },
-    {
       "url": "https://bitcoinworld.co.in/pendle-team-deposits-pendle-binance/",
       "status": 410,
       "source": "Blockchain News / BitcoinWorld",
+      "cited_by": [
+        "PENDLE"
+      ]
+    },
+    {
+      "url": "https://www.mexc.com/news/831281",
+      "status": 410,
+      "source": "MEXC / DeFiLlama",
       "cited_by": [
         "PENDLE"
       ]
@@ -300,14 +332,6 @@
       ]
     },
     {
-      "url": "https://docs.helium.com/mobile/",
-      "status": 404,
-      "source": "Helium Documentation",
-      "cited_by": [
-        "MOBILE"
-      ]
-    },
-    {
       "url": "https://wormhole.com/token",
       "status": 404,
       "source": "Wormhole Token Docs",
@@ -348,11 +372,27 @@
       ]
     },
     {
+      "url": "https://www.coingecko.com/en/coins/worldcoin-org",
+      "status": 404,
+      "source": "CoinGecko",
+      "cited_by": [
+        "WLD"
+      ]
+    },
+    {
       "url": "https://www.worldbank.org/en/news/press-release/2018/08/23/world-bank-prices-first-global-blockchain-bond-raising-a110-million",
       "status": 404,
       "source": "World Bank",
       "cited_by": [
         "XTZ"
+      ]
+    },
+    {
+      "url": "https://dune.com/hildobby/NFTs",
+      "status": 404,
+      "source": "Dune Analytics",
+      "cited_by": [
+        "BLUR"
       ]
     },
     {
@@ -380,7 +420,7 @@
       ]
     }
   ],
-  "blocked": 177,
+  "blocked": 180,
   "unreachable": [
     {
       "url": "https://felix.hyperliquid.xyz",
@@ -438,6 +478,13 @@
       "error": "fetch failed",
       "cited_by": [
         "AVAX"
+      ]
+    },
+    {
+      "url": "https://coinedition.com/telegram-replaces-ton-foundation-as-tons-largest-validator-token-surges/",
+      "error": "timeout",
+      "cited_by": [
+        "TON"
       ]
     },
     {

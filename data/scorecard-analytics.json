@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-08T15:29:38.599Z",
+  "generated_at": "2026-11-09T13:52:46.593Z",
   "source_updated_at": "2026-09-18T14:30:00Z",
   "citation_links": {
-    "checked_at": "2026-11-02T13:29:05.542Z",
-    "dead_count": 47
+    "checked_at": "2026-11-09T13:52:46.486Z",
+    "dead_count": 52
   },
   "market_data": {
     "source": "CoinGecko",
@@ -2698,13 +2698,13 @@
           "claim": "$124M Q1 2026 revenue (gross); net P/S ~6.7x not 2.7x",
           "source": "MEXC / CoinLaw",
           "url": "https://www.mexc.com/news/1073029",
-          "link_ok": true
+          "link_ok": false
         },
         {
           "claim": "Buyback allocation reduced from 75% to 7.5% of protocol surplus on 14 March 2026, superseding the earlier $114.5M projection",
           "source": "CoinLaw",
           "url": "https://www.mexc.co/en-IN/news/369263",
-          "link_ok": true
+          "link_ok": false
         },
         {
           "claim": "USDS/DAI 3rd largest stablecoin, A- Webacy rating",
@@ -6367,7 +6367,7 @@
           "claim": "50-60% market share in yield tokenization. Spectra (only competitor) ~$30M TVL = ~25x smaller. Element/Yield DEAD",
           "source": "MEXC / DeFiLlama",
           "url": "https://www.mexc.com/news/831281",
-          "link_ok": true
+          "link_ok": false
         },
         {
           "claim": "Plasma chain: $195M TVL, launched Jan 15, 2026, +$318M TVL in first 96 hours",
@@ -8539,7 +8539,7 @@
           "claim": "SEC closed 4-year Aave investigation without enforcement, August 2025",
           "source": "MEXC",
           "url": "https://www.mexc.com/news/290227",
-          "link_ok": true
+          "link_ok": false
         },
         {
           "claim": "Horizon institutional RWA market: $550M deposits, targeting $1B by end 2026",
@@ -9842,7 +9842,7 @@
           "claim": "40-50% of Jupiter volume is atomic arbitrage",
           "source": "MEXC Research",
           "url": "https://www.mexc.com/news/365074",
-          "link_ok": true
+          "link_ok": false
         },
         {
           "claim": "Monthly volume $15.5B (down 91% from $174B Jan 2025 peak)",
@@ -16300,7 +16300,7 @@
           "claim": "Avalanche Summit V: Sep 16-17, 2026 in New York",
           "source": "Avax.network",
           "url": "https://www.avax.network/community-hub/events",
-          "link_ok": false
+          "link_ok": true
         },
         {
           "claim": "NHN KCP PAYCO stablecoin pilot: 2-second settlement, 1,000+ merchants",
@@ -75526,7 +75526,7 @@
           "claim": "MOBILE is Helium's subDAO token for the 5G mobile network; rewards hotspot deployers covering cellular data",
           "source": "Helium Documentation",
           "url": "https://docs.helium.com/mobile/",
-          "link_ok": false
+          "link_ok": true
         },
         {
           "claim": "MOBILE volume is extremely thin; Crypto.com shows ~$2,600 daily volume, making it near-unliquidatable at any size",
@@ -80310,7 +80310,7 @@
           "claim": "WLD circulating supply is only ~17% of total with massive team/foundation releases through 2028",
           "source": "CoinGecko",
           "url": "https://www.coingecko.com/en/coins/worldcoin-org",
-          "link_ok": true
+          "link_ok": false
         },
         {
           "claim": "EU regulators and South Korea suspended Worldcoin data collection over GDPR biometric data concerns",
@@ -87612,7 +87612,7 @@
           "claim": "Blur achieved 60%+ NFT marketplace market share in 2023 via aggressive airdrop incentives, but volume collapsed with NFT market",
           "source": "Dune Analytics",
           "url": "https://dune.com/hildobby/NFTs",
-          "link_ok": true
+          "link_ok": false
         },
         {
           "claim": "BLUR only 38% circulating; Paradigm and other investors hold large locked positions with ongoing vesting schedule",
