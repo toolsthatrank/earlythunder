@@ -1,7 +1,7 @@
 {
   "meta": {
-    "scanned_at": "2026-11-02T21:15:42.537320+00:00",
-    "total_candidates": 38,
+    "scanned_at": "2026-11-09T21:50:13.507804+00:00",
+    "total_candidates": 35,
     "sources": [
       "coingecko_trending",
       "defillama_protocols"
@@ -10,30 +10,17 @@
   },
   "candidates": [
     {
-      "name": "Super Inu",
-      "ticker": "SI",
+      "name": "Dacity Coin",
+      "ticker": "DACITY",
       "category": "Trending (auto-detected)",
       "source": "coingecko_trending",
       "initial_signals": {
         "narrative": 50,
-        "market_cap_rank": 812
+        "market_cap_rank": 774
       },
-      "reason_flagged": "Trending on CoinGecko (rank #812)",
-      "slug_candidate": "super-inu",
-      "scanned_at": "2026-11-02T21:15:42.148586+00:00"
-    },
-    {
-      "name": "AudaCity",
-      "ticker": "DACITYCOIN",
-      "category": "Trending (auto-detected)",
-      "source": "coingecko_trending",
-      "initial_signals": {
-        "narrative": 50,
-        "market_cap_rank": 770
-      },
-      "reason_flagged": "Trending on CoinGecko (rank #770)",
-      "slug_candidate": "audacity",
-      "scanned_at": "2026-11-02T21:15:42.148623+00:00"
+      "reason_flagged": "Trending on CoinGecko (rank #774)",
+      "slug_candidate": "dacity-coin",
+      "scanned_at": "2026-11-09T21:50:13.221254+00:00"
     },
     {
       "name": "Pearl",
@@ -42,11 +29,11 @@
       "source": "coingecko_trending",
       "initial_signals": {
         "narrative": 60,
-        "market_cap_rank": 98
+        "market_cap_rank": 93
       },
-      "reason_flagged": "Trending on CoinGecko (rank #98)",
+      "reason_flagged": "Trending on CoinGecko (rank #93)",
       "slug_candidate": "pearl",
-      "scanned_at": "2026-11-02T21:15:42.148642+00:00"
+      "scanned_at": "2026-11-09T21:50:13.221336+00:00"
     },
     {
       "name": "Pudgy Penguins",
@@ -55,63 +42,37 @@
       "source": "coingecko_trending",
       "initial_signals": {
         "narrative": 60,
-        "market_cap_rank": 113
+        "market_cap_rank": 116
       },
-      "reason_flagged": "Trending on CoinGecko (rank #113)",
+      "reason_flagged": "Trending on CoinGecko (rank #116)",
       "slug_candidate": "pudgy-penguins",
-      "scanned_at": "2026-11-02T21:15:42.148653+00:00"
+      "scanned_at": "2026-11-09T21:50:13.221349+00:00"
     },
     {
-      "name": "Venice Token",
-      "ticker": "VVV",
+      "name": "Quantus",
+      "ticker": "QTC",
       "category": "Trending (auto-detected)",
       "source": "coingecko_trending",
       "initial_signals": {
-        "narrative": 60,
-        "market_cap_rank": 72
+        "narrative": 50,
+        "market_cap_rank": 854
       },
-      "reason_flagged": "Trending on CoinGecko (rank #72)",
-      "slug_candidate": "venice-token",
-      "scanned_at": "2026-11-02T21:15:42.148663+00:00"
+      "reason_flagged": "Trending on CoinGecko (rank #854)",
+      "slug_candidate": "quantus",
+      "scanned_at": "2026-11-09T21:50:13.221366+00:00"
     },
     {
-      "name": "Quant",
-      "ticker": "QNT",
-      "category": "Trending (auto-detected)",
-      "source": "coingecko_trending",
-      "initial_signals": {
-        "narrative": 75,
-        "market_cap_rank": 35
-      },
-      "reason_flagged": "Trending on CoinGecko (rank #35)",
-      "slug_candidate": "quant",
-      "scanned_at": "2026-11-02T21:15:42.148689+00:00"
-    },
-    {
-      "name": "Aerodrome Finance",
-      "ticker": "AERO",
-      "category": "Trending (auto-detected)",
-      "source": "coingecko_trending",
-      "initial_signals": {
-        "narrative": 60,
-        "market_cap_rank": 110
-      },
-      "reason_flagged": "Trending on CoinGecko (rank #110)",
-      "slug_candidate": "aerodrome-finance",
-      "scanned_at": "2026-11-02T21:15:42.148719+00:00"
-    },
-    {
-      "name": "Canton",
-      "ticker": "CC",
+      "name": "Gram (prev. Toncoin)",
+      "ticker": "GRAM",
       "category": "Trending (auto-detected)",
       "source": "coingecko_trending",
       "initial_signals": {
         "narrative": 75,
-        "market_cap_rank": 28
+        "market_cap_rank": 33
       },
-      "reason_flagged": "Trending on CoinGecko (rank #28)",
-      "slug_candidate": "canton",
-      "scanned_at": "2026-11-02T21:15:42.148726+00:00"
+      "reason_flagged": "Trending on CoinGecko (rank #33)",
+      "slug_candidate": "gram-prev-toncoin",
+      "scanned_at": "2026-11-09T21:50:13.221376+00:00"
     },
     {
       "name": "Binance CEX",
@@ -119,13 +80,13 @@
       "category": "CEX",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 124393684318.42497,
-        "change_7d_pct": -27.29458244623541,
+        "tvl_usd": 124067060412.63953,
+        "change_7d_pct": -0.7618522503035621,
         "defi_category": "CEX"
       },
-      "reason_flagged": "DeFiLlama: TVL $124.39B",
+      "reason_flagged": "DeFiLlama: TVL $124.07B",
       "slug_candidate": "binance-cex",
-      "scanned_at": "2026-11-02T21:15:42.526835+00:00"
+      "scanned_at": "2026-11-09T21:50:13.497774+00:00"
     },
     {
       "name": "OKX",
@@ -133,13 +94,13 @@
       "category": "CEX",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 28598052873.347073,
-        "change_7d_pct": -5.5572303653208905,
+        "tvl_usd": 27571180520.179363,
+        "change_7d_pct": -3.8266804777360477,
         "defi_category": "CEX"
       },
-      "reason_flagged": "DeFiLlama: TVL $28.60B",
+      "reason_flagged": "DeFiLlama: TVL $27.57B",
       "slug_candidate": "okx",
-      "scanned_at": "2026-11-02T21:15:42.526868+00:00"
+      "scanned_at": "2026-11-09T21:50:13.497811+00:00"
     },
     {
       "name": "Lido",
@@ -147,13 +108,13 @@
       "category": "Liquid Staking",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 21821761421.379555,
-        "change_7d_pct": -2.9848319628052167,
+        "tvl_usd": 20754558792.42479,
+        "change_7d_pct": -4.890543015052799,
         "defi_category": "Liquid Staking"
       },
-      "reason_flagged": "DeFiLlama: TVL $21.82B",
+      "reason_flagged": "DeFiLlama: TVL $20.75B",
       "slug_candidate": "lido",
-      "scanned_at": "2026-11-02T21:15:42.526880+00:00"
+      "scanned_at": "2026-11-09T21:50:13.497824+00:00"
     },
     {
       "name": "LayerZero V2",
@@ -161,13 +122,13 @@
       "category": "Bridge",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 16077251362.780945,
-        "change_7d_pct": -2.4988154058642067,
+        "tvl_usd": 16766120577.027702,
+        "change_7d_pct": 4.284744939931073,
         "defi_category": "Bridge"
       },
-      "reason_flagged": "DeFiLlama: TVL $16.08B",
+      "reason_flagged": "DeFiLlama: TVL $16.77B",
       "slug_candidate": "layerzero-v2",
-      "scanned_at": "2026-11-02T21:15:42.526891+00:00"
+      "scanned_at": "2026-11-09T21:50:13.497835+00:00"
     },
     {
       "name": "Aave V3",
@@ -175,13 +136,13 @@
       "category": "Lending",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 15330822590.338112,
-        "change_7d_pct": -7.508168911869973,
+        "tvl_usd": 15291515171.620516,
+        "change_7d_pct": -0.2563947138907565,
         "defi_category": "Lending"
       },
-      "reason_flagged": "DeFiLlama: TVL $15.33B",
+      "reason_flagged": "DeFiLlama: TVL $15.29B",
       "slug_candidate": "aave-v3",
-      "scanned_at": "2026-11-02T21:15:42.526901+00:00"
+      "scanned_at": "2026-11-09T21:50:13.497845+00:00"
     },
     {
       "name": "Bitfinex",
@@ -189,13 +150,13 @@
       "category": "CEX",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 14603118687.367083,
-        "change_7d_pct": -29.837231303979692,
+        "tvl_usd": 14650726296.327572,
+        "change_7d_pct": 0.3260098748746998,
         "defi_category": "CEX"
       },
-      "reason_flagged": "DeFiLlama: TVL $14.60B",
+      "reason_flagged": "DeFiLlama: TVL $14.65B",
       "slug_candidate": "bitfinex",
-      "scanned_at": "2026-11-02T21:15:42.526910+00:00"
+      "scanned_at": "2026-11-09T21:50:13.497854+00:00"
     },
     {
       "name": "Bybit",
@@ -203,13 +164,13 @@
       "category": "CEX",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 14552292571.906385,
-        "change_7d_pct": -6.315445096108149,
+        "tvl_usd": 14592383751.168938,
+        "change_7d_pct": 0.4473102421930264,
         "defi_category": "CEX"
       },
-      "reason_flagged": "DeFiLlama: TVL $14.55B",
+      "reason_flagged": "DeFiLlama: TVL $14.59B",
       "slug_candidate": "bybit",
-      "scanned_at": "2026-11-02T21:15:42.526918+00:00"
+      "scanned_at": "2026-11-09T21:50:13.497862+00:00"
     },
     {
       "name": "Robinhood",
@@ -217,13 +178,13 @@
       "category": "CEX",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 13856640460.615498,
-        "change_7d_pct": -4.029217788965838,
+        "tvl_usd": 13396925980.521942,
+        "change_7d_pct": -3.317647458633246,
         "defi_category": "CEX"
       },
-      "reason_flagged": "DeFiLlama: TVL $13.86B",
+      "reason_flagged": "DeFiLlama: TVL $13.40B",
       "slug_candidate": "robinhood",
-      "scanned_at": "2026-11-02T21:15:42.526926+00:00"
+      "scanned_at": "2026-11-09T21:50:13.497871+00:00"
     },
     {
       "name": "Morpho Blue",
@@ -231,13 +192,13 @@
       "category": "Lending",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 11074060102.055906,
-        "change_7d_pct": -2.030810146141121,
+        "tvl_usd": 10826767503.282444,
+        "change_7d_pct": -2.2330797963391262,
         "defi_category": "Lending"
       },
-      "reason_flagged": "DeFiLlama: TVL $11.07B",
+      "reason_flagged": "DeFiLlama: TVL $10.83B",
       "slug_candidate": "morpho-blue",
-      "scanned_at": "2026-11-02T21:15:42.526938+00:00"
+      "scanned_at": "2026-11-09T21:50:13.497883+00:00"
     },
     {
       "name": "WBTC",
@@ -245,13 +206,13 @@
       "category": "Bridge",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 8948375851.414133,
-        "change_7d_pct": -4.248511361002571,
+        "tvl_usd": 8693097996.662296,
+        "change_7d_pct": -2.852784225770918,
         "defi_category": "Bridge"
       },
-      "reason_flagged": "DeFiLlama: TVL $8.95B",
+      "reason_flagged": "DeFiLlama: TVL $8.69B",
       "slug_candidate": "wbtc",
-      "scanned_at": "2026-11-02T21:15:42.526945+00:00"
+      "scanned_at": "2026-11-09T21:50:13.497891+00:00"
     },
     {
       "name": "Binance staked ETH",
@@ -259,13 +220,13 @@
       "category": "Liquid Staking",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 8646358821.45886,
-        "change_7d_pct": 0.024135674984108846,
+        "tvl_usd": 8246351697.8474,
+        "change_7d_pct": -4.626307233730671,
         "defi_category": "Liquid Staking"
       },
-      "reason_flagged": "DeFiLlama: TVL $8.65B",
+      "reason_flagged": "DeFiLlama: TVL $8.25B",
       "slug_candidate": "binance-staked-eth",
-      "scanned_at": "2026-11-02T21:15:42.526954+00:00"
+      "scanned_at": "2026-11-09T21:50:13.497899+00:00"
     },
     {
       "name": "Coinbase Bridge",
@@ -273,13 +234,13 @@
       "category": "Bridge",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 7692022483.066122,
-        "change_7d_pct": -2.6408905346253135,
+        "tvl_usd": 7518994272.899632,
+        "change_7d_pct": -2.249450135480089,
         "defi_category": "Bridge"
       },
-      "reason_flagged": "DeFiLlama: TVL $7.69B",
+      "reason_flagged": "DeFiLlama: TVL $7.52B",
       "slug_candidate": "coinbase-bridge",
-      "scanned_at": "2026-11-02T21:15:42.526971+00:00"
+      "scanned_at": "2026-11-09T21:50:13.497909+00:00"
     },
     {
       "name": "Hyperliquid Bridge",
@@ -287,27 +248,13 @@
       "category": "Bridge",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 6381418215.257983,
-        "change_7d_pct": -2.9633496678939792,
+        "tvl_usd": 6232690172.590129,
+        "change_7d_pct": -2.3306424630224853,
         "defi_category": "Bridge"
       },
-      "reason_flagged": "DeFiLlama: TVL $6.38B",
+      "reason_flagged": "DeFiLlama: TVL $6.23B",
       "slug_candidate": "hyperliquid-bridge",
-      "scanned_at": "2026-11-02T21:15:42.526980+00:00"
-    },
-    {
-      "name": "Gate",
-      "ticker": "GT",
-      "category": "CEX",
-      "source": "defillama_protocols",
-      "initial_signals": {
-        "tvl_usd": 5945814040.767134,
-        "change_7d_pct": -19.79016365293647,
-        "defi_category": "CEX"
-      },
-      "reason_flagged": "DeFiLlama: TVL $5.95B",
-      "slug_candidate": "gate",
-      "scanned_at": "2026-11-02T21:15:42.526988+00:00"
+      "scanned_at": "2026-11-09T21:50:13.497925+00:00"
     },
     {
       "name": "Bitget",
@@ -315,13 +262,27 @@
       "category": "CEX",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 5883378013.276316,
-        "change_7d_pct": -12.789582609956867,
+        "tvl_usd": 5777655798.018184,
+        "change_7d_pct": -2.1296643405576816,
         "defi_category": "CEX"
       },
-      "reason_flagged": "DeFiLlama: TVL $5.88B",
+      "reason_flagged": "DeFiLlama: TVL $5.78B",
       "slug_candidate": "bitget",
-      "scanned_at": "2026-11-02T21:15:42.526995+00:00"
+      "scanned_at": "2026-11-09T21:50:13.497933+00:00"
+    },
+    {
+      "name": "Gate",
+      "ticker": "GT",
+      "category": "CEX",
+      "source": "defillama_protocols",
+      "initial_signals": {
+        "tvl_usd": 5735108513.472604,
+        "change_7d_pct": -3.708587387244549,
+        "defi_category": "CEX"
+      },
+      "reason_flagged": "DeFiLlama: TVL $5.74B",
+      "slug_candidate": "gate",
+      "scanned_at": "2026-11-09T21:50:13.497940+00:00"
     },
     {
       "name": "Binance Bitcoin",
@@ -329,41 +290,13 @@
       "category": "Bridge",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 5244182664.015815,
-        "change_7d_pct": -4.082106982028293,
+        "tvl_usd": 5092555838.740673,
+        "change_7d_pct": -2.891333788114679,
         "defi_category": "Bridge"
       },
-      "reason_flagged": "DeFiLlama: TVL $5.24B",
+      "reason_flagged": "DeFiLlama: TVL $5.09B",
       "slug_candidate": "binance-bitcoin",
-      "scanned_at": "2026-11-02T21:15:42.527006+00:00"
-    },
-    {
-      "name": "Gemini",
-      "ticker": "-",
-      "category": "CEX",
-      "source": "defillama_protocols",
-      "initial_signals": {
-        "tvl_usd": 5076428448.2139015,
-        "change_7d_pct": -3.348281272654461,
-        "defi_category": "CEX"
-      },
-      "reason_flagged": "DeFiLlama: TVL $5.08B",
-      "slug_candidate": "gemini",
-      "scanned_at": "2026-11-02T21:15:42.527017+00:00"
-    },
-    {
-      "name": "Sky Lending",
-      "ticker": "SKY",
-      "category": "CDP",
-      "source": "defillama_protocols",
-      "initial_signals": {
-        "tvl_usd": 5046332437.845205,
-        "change_7d_pct": -4.621169042323629,
-        "defi_category": "CDP"
-      },
-      "reason_flagged": "DeFiLlama: TVL $5.05B",
-      "slug_candidate": "sky-lending",
-      "scanned_at": "2026-11-02T21:15:42.527025+00:00"
+      "scanned_at": "2026-11-09T21:50:13.497956+00:00"
     },
     {
       "name": "Ethena USDe",
@@ -371,13 +304,27 @@
       "category": "Basis Trading",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 4576642244.860081,
-        "change_7d_pct": -0.37698075679041665,
+        "tvl_usd": 4988200155.7301035,
+        "change_7d_pct": 8.992573350740571,
         "defi_category": "Basis Trading"
       },
-      "reason_flagged": "DeFiLlama: TVL $4.58B",
+      "reason_flagged": "DeFiLlama: TVL $4.99B",
       "slug_candidate": "ethena-usde",
-      "scanned_at": "2026-11-02T21:15:42.527035+00:00"
+      "scanned_at": "2026-11-09T21:50:13.497964+00:00"
+    },
+    {
+      "name": "Gemini",
+      "ticker": "-",
+      "category": "CEX",
+      "source": "defillama_protocols",
+      "initial_signals": {
+        "tvl_usd": 4891975964.645048,
+        "change_7d_pct": -3.6335089807825796,
+        "defi_category": "CEX"
+      },
+      "reason_flagged": "DeFiLlama: TVL $4.89B",
+      "slug_candidate": "gemini",
+      "scanned_at": "2026-11-09T21:50:13.497972+00:00"
     },
     {
       "name": "Bitstamp",
@@ -385,13 +332,27 @@
       "category": "CEX",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 4506689604.771935,
-        "change_7d_pct": -3.78870690742518,
+        "tvl_usd": 4359374342.160465,
+        "change_7d_pct": -3.2329566128477865,
         "defi_category": "CEX"
       },
-      "reason_flagged": "DeFiLlama: TVL $4.51B",
+      "reason_flagged": "DeFiLlama: TVL $4.36B",
       "slug_candidate": "bitstamp",
-      "scanned_at": "2026-11-02T21:15:42.527043+00:00"
+      "scanned_at": "2026-11-09T21:50:13.497981+00:00"
+    },
+    {
+      "name": "Sky Lending",
+      "ticker": "SKY",
+      "category": "CDP",
+      "source": "defillama_protocols",
+      "initial_signals": {
+        "tvl_usd": 4240327746.1510224,
+        "change_7d_pct": -15.972088672746025,
+        "defi_category": "CDP"
+      },
+      "reason_flagged": "DeFiLlama: TVL $4.24B",
+      "slug_candidate": "sky-lending",
+      "scanned_at": "2026-11-09T21:50:13.497989+00:00"
     },
     {
       "name": "MEXC",
@@ -399,13 +360,13 @@
       "category": "CEX",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 4504064762.322792,
-        "change_7d_pct": -12.269570479101304,
+        "tvl_usd": 4171431558.527648,
+        "change_7d_pct": -7.385178085752074,
         "defi_category": "CEX"
       },
-      "reason_flagged": "DeFiLlama: TVL $4.50B",
+      "reason_flagged": "DeFiLlama: TVL $4.17B",
       "slug_candidate": "mexc",
-      "scanned_at": "2026-11-02T21:15:42.527069+00:00"
+      "scanned_at": "2026-11-09T21:50:13.497997+00:00"
     },
     {
       "name": "ether.fi Stake",
@@ -413,13 +374,13 @@
       "category": "Liquid Staking",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 4309389799.200543,
-        "change_7d_pct": -2.7952587691672193,
+        "tvl_usd": 4058831673.245077,
+        "change_7d_pct": -5.814236762753481,
         "defi_category": "Liquid Staking"
       },
-      "reason_flagged": "DeFiLlama: TVL $4.31B",
+      "reason_flagged": "DeFiLlama: TVL $4.06B",
       "slug_candidate": "ether-fi-stake",
-      "scanned_at": "2026-11-02T21:15:42.527079+00:00"
+      "scanned_at": "2026-11-09T21:50:13.498005+00:00"
     },
     {
       "name": "HTX",
@@ -427,13 +388,13 @@
       "category": "CEX",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 3939297456.23409,
-        "change_7d_pct": -3.654323642714985,
+        "tvl_usd": 3904770549.9801874,
+        "change_7d_pct": -0.876473702163878,
         "defi_category": "CEX"
       },
-      "reason_flagged": "DeFiLlama: TVL $3.94B",
+      "reason_flagged": "DeFiLlama: TVL $3.90B",
       "slug_candidate": "htx",
-      "scanned_at": "2026-11-02T21:15:42.527086+00:00"
+      "scanned_at": "2026-11-09T21:50:13.498015+00:00"
     },
     {
       "name": "Deribit",
@@ -441,27 +402,13 @@
       "category": "CEX",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 3585645368.2816715,
-        "change_7d_pct": -9.261756497771017,
+        "tvl_usd": 3521884037.8366127,
+        "change_7d_pct": -1.7782386124709006,
         "defi_category": "CEX"
       },
-      "reason_flagged": "DeFiLlama: TVL $3.59B",
+      "reason_flagged": "DeFiLlama: TVL $3.52B",
       "slug_candidate": "deribit",
-      "scanned_at": "2026-11-02T21:15:42.527097+00:00"
-    },
-    {
-      "name": "Arbitrum Bridge",
-      "ticker": "ARB",
-      "category": "Canonical Bridge",
-      "source": "defillama_protocols",
-      "initial_signals": {
-        "tvl_usd": 3301014457.358456,
-        "change_7d_pct": 1.3776585931101692,
-        "defi_category": "Canonical Bridge"
-      },
-      "reason_flagged": "DeFiLlama: TVL $3.30B",
-      "slug_candidate": "arbitrum-bridge",
-      "scanned_at": "2026-11-02T21:15:42.527106+00:00"
+      "scanned_at": "2026-11-09T21:50:13.498022+00:00"
     },
     {
       "name": "JustLend V1",
@@ -469,13 +416,13 @@
       "category": "Lending",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 3245982804.45242,
-        "change_7d_pct": -9.99824632356264,
+        "tvl_usd": 3354446367.30014,
+        "change_7d_pct": 3.341470654094138,
         "defi_category": "Lending"
       },
-      "reason_flagged": "DeFiLlama: TVL $3.25B",
+      "reason_flagged": "DeFiLlama: TVL $3.35B",
       "slug_candidate": "justlend-v1",
-      "scanned_at": "2026-11-02T21:15:42.527114+00:00"
+      "scanned_at": "2026-11-09T21:50:13.498030+00:00"
     },
     {
       "name": "USDT0",
@@ -483,13 +430,27 @@
       "category": "Bridge",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 3160564234.204358,
-        "change_7d_pct": -1.8979214600799281,
+        "tvl_usd": 3348612157.9001775,
+        "change_7d_pct": 5.949821290158283,
         "defi_category": "Bridge"
       },
-      "reason_flagged": "DeFiLlama: TVL $3.16B",
+      "reason_flagged": "DeFiLlama: TVL $3.35B",
       "slug_candidate": "usdt0",
-      "scanned_at": "2026-11-02T21:15:42.527122+00:00"
+      "scanned_at": "2026-11-09T21:50:13.498036+00:00"
+    },
+    {
+      "name": "Arbitrum Bridge",
+      "ticker": "ARB",
+      "category": "Canonical Bridge",
+      "source": "defillama_protocols",
+      "initial_signals": {
+        "tvl_usd": 3197974955.040712,
+        "change_7d_pct": -3.041597251722621,
+        "defi_category": "Canonical Bridge"
+      },
+      "reason_flagged": "DeFiLlama: TVL $3.20B",
+      "slug_candidate": "arbitrum-bridge",
+      "scanned_at": "2026-11-09T21:50:13.498046+00:00"
     },
     {
       "name": "JustLend sTRX",
@@ -497,27 +458,13 @@
       "category": "Liquid Staking",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 3137079150.8613977,
-        "change_7d_pct": -3.7433670148966627,
+        "tvl_usd": 3131348239.2345586,
+        "change_7d_pct": -0.18268304213063402,
         "defi_category": "Liquid Staking"
       },
-      "reason_flagged": "DeFiLlama: TVL $3.14B",
+      "reason_flagged": "DeFiLlama: TVL $3.13B",
       "slug_candidate": "justlend-strx",
-      "scanned_at": "2026-11-02T21:15:42.527132+00:00"
-    },
-    {
-      "name": "Base Bridge",
-      "ticker": "-",
-      "category": "Canonical Bridge",
-      "source": "defillama_protocols",
-      "initial_signals": {
-        "tvl_usd": 2812900110.424828,
-        "change_7d_pct": -0.7123139650006323,
-        "defi_category": "Canonical Bridge"
-      },
-      "reason_flagged": "DeFiLlama: TVL $2.81B",
-      "slug_candidate": "base-bridge",
-      "scanned_at": "2026-11-02T21:15:42.527139+00:00"
+      "scanned_at": "2026-11-09T21:50:13.498054+00:00"
     },
     {
       "name": "Steakhouse Financial",
@@ -525,13 +472,27 @@
       "category": "Risk Curators",
       "source": "defillama_protocols",
       "initial_signals": {
-        "tvl_usd": 2748541760.8548837,
-        "change_7d_pct": 5.482610666590745,
+        "tvl_usd": 2877517942.8899345,
+        "change_7d_pct": 4.6925312859330575,
         "defi_category": "Risk Curators"
       },
-      "reason_flagged": "DeFiLlama: TVL $2.75B",
+      "reason_flagged": "DeFiLlama: TVL $2.88B",
       "slug_candidate": "steakhouse-financial",
-      "scanned_at": "2026-11-02T21:15:42.527150+00:00"
+      "scanned_at": "2026-11-09T21:50:13.498066+00:00"
+    },
+    {
+      "name": "Base Bridge",
+      "ticker": "-",
+      "category": "Canonical Bridge",
+      "source": "defillama_protocols",
+      "initial_signals": {
+        "tvl_usd": 2842485677.9225197,
+        "change_7d_pct": 1.051781660786503,
+        "defi_category": "Canonical Bridge"
+      },
+      "reason_flagged": "DeFiLlama: TVL $2.84B",
+      "slug_candidate": "base-bridge",
+      "scanned_at": "2026-11-09T21:50:13.498077+00:00"
     }
   ]
 }
