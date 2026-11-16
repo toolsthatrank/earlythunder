@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-11-09T13:52:46.486Z",
+  "checked_at": "2026-11-16T13:37:44.147Z",
   "total": 746,
-  "ok": 497,
+  "ok": 496,
   "dead": [
     {
       "url": "https://fortune.com/crypto/2026/05/20/ice-ceo-jeffrey-sprecher-hyperliquid/",
@@ -380,6 +380,14 @@
       ]
     },
     {
+      "url": "https://defillama.com/chain/Dogecoin",
+      "status": 404,
+      "source": "DeFiLlama",
+      "cited_by": [
+        "DOGE"
+      ]
+    },
+    {
       "url": "https://www.worldbank.org/en/news/press-release/2018/08/23/world-bank-prices-first-global-blockchain-bond-raising-a110-million",
       "status": 404,
       "source": "World Bank",
@@ -420,7 +428,7 @@
       ]
     }
   ],
-  "blocked": 180,
+  "blocked": 179,
   "unreachable": [
     {
       "url": "https://felix.hyperliquid.xyz",
@@ -443,6 +451,13 @@
         "KMNO",
         "KMNO",
         "KMNO"
+      ]
+    },
+    {
+      "url": "https://www.cryptoninjas.net/news/binance-lists-morpho-with-6-5m-airdrop-for-bnb-holders-as-trading-volume-surges/",
+      "error": "timeout",
+      "cited_by": [
+        "MORPHO"
       ]
     },
     {
@@ -481,13 +496,6 @@
       ]
     },
     {
-      "url": "https://coinedition.com/telegram-replaces-ton-foundation-as-tons-largest-validator-token-surges/",
-      "error": "timeout",
-      "cited_by": [
-        "TON"
-      ]
-    },
-    {
       "url": "https://canarycapital.com",
       "error": "fetch failed",
       "cited_by": [
@@ -513,6 +521,13 @@
       "error": "fetch failed",
       "cited_by": [
         "ATOM"
+      ]
+    },
+    {
+      "url": "https://www.geekmetaverse.com/the-ugc-metaverse-why-roblox-and-fortnite-are-winning-the-future/",
+      "error": "timeout",
+      "cited_by": [
+        "SAND"
       ]
     }
   ]

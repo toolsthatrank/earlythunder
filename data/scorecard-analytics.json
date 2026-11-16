@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-15T15:47:17.359Z",
+  "generated_at": "2026-11-16T13:37:44.302Z",
   "source_updated_at": "2026-09-18T14:30:00Z",
   "citation_links": {
-    "checked_at": "2026-11-09T13:52:46.486Z",
-    "dead_count": 52
+    "checked_at": "2026-11-16T13:37:44.147Z",
+    "dead_count": 53
   },
   "market_data": {
     "source": "CoinGecko",
@@ -80750,7 +80750,7 @@
           "claim": "Dogecoin has virtually no DeFi network or protocol revenue",
           "source": "DeFiLlama",
           "url": "https://defillama.com/chain/Dogecoin",
-          "link_ok": true
+          "link_ok": false
         }
       ],
       "neighbours": [
