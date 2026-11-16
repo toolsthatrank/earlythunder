@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-15",
-  "scanned": 2867,
-  "qualified": 85,
+  "generated": "2026-11-16",
+  "scanned": 2872,
+  "qualified": 84,
   "shown": 60,
   "counts": {
     "total": 60,
     "hyper": 12,
-    "high": 9,
-    "moderate": 17,
-    "low": 22
+    "high": 6,
+    "moderate": 19,
+    "low": 23
   },
   "protocols": [
     {
@@ -17,39 +17,39 @@
       "symbol": "GP",
       "category": "Launchpad",
       "tier": "HYPERLIQUID-GRADE",
-      "earnings_yield_pct": 141.14,
-      "annualized_revenue": 13033627,
-      "mcap": 9234598
+      "earnings_yield_pct": 143.61,
+      "annualized_revenue": 13007018,
+      "mcap": 9057423
     },
     {
       "rank": 2,
-      "name": "Collector Crypt",
-      "symbol": "CARDS",
-      "category": "Physical TCG",
-      "tier": "HYPERLIQUID-GRADE",
-      "earnings_yield_pct": 107.33,
-      "annualized_revenue": 165051005,
-      "mcap": 153776434
-    },
-    {
-      "rank": 3,
       "name": "ORE Protocol",
       "symbol": "ORE",
       "category": "Gamified Mining",
       "tier": "HYPERLIQUID-GRADE",
-      "earnings_yield_pct": 105.51,
-      "annualized_revenue": 50825484,
-      "mcap": 48169578
+      "earnings_yield_pct": 118.16,
+      "annualized_revenue": 50713854,
+      "mcap": 42920801
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Nullmask",
       "symbol": "MASK",
       "category": "Privacy",
       "tier": "HYPERLIQUID-GRADE",
-      "earnings_yield_pct": 94.1,
-      "annualized_revenue": 13100544,
-      "mcap": 13921845
+      "earnings_yield_pct": 105.93,
+      "annualized_revenue": 12498415,
+      "mcap": 11798969
+    },
+    {
+      "rank": 4,
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "category": "Physical TCG",
+      "tier": "HYPERLIQUID-GRADE",
+      "earnings_yield_pct": 102.46,
+      "annualized_revenue": 154139257,
+      "mcap": 150438443
     },
     {
       "rank": 5,
@@ -57,9 +57,9 @@
       "symbol": "STONK",
       "category": "Launchpad",
       "tier": "HYPERLIQUID-GRADE",
-      "earnings_yield_pct": 90.9,
-      "annualized_revenue": 30685258,
-      "mcap": 33758766
+      "earnings_yield_pct": 91.38,
+      "annualized_revenue": 28641611,
+      "mcap": 31344369
     },
     {
       "rank": 6,
@@ -67,9 +67,9 @@
       "symbol": "THOR",
       "category": "DEX Aggregator",
       "tier": "HYPERLIQUID-GRADE",
-      "earnings_yield_pct": 69.02,
-      "annualized_revenue": 6568990,
-      "mcap": 9517078
+      "earnings_yield_pct": 67.63,
+      "annualized_revenue": 6614688,
+      "mcap": 9781274
     },
     {
       "rank": 7,
@@ -77,9 +77,9 @@
       "symbol": "INV",
       "category": "CDP",
       "tier": "HYPERLIQUID-GRADE",
-      "earnings_yield_pct": 53.25,
-      "annualized_revenue": 3417045,
-      "mcap": 6416662
+      "earnings_yield_pct": 54.42,
+      "annualized_revenue": 3406667,
+      "mcap": 6259564
     },
     {
       "rank": 8,
@@ -87,9 +87,9 @@
       "symbol": "PEAS",
       "category": "Yield",
       "tier": "HYPERLIQUID-GRADE",
-      "earnings_yield_pct": 44.15,
-      "annualized_revenue": 4332175,
-      "mcap": 9811819
+      "earnings_yield_pct": 44.27,
+      "annualized_revenue": 4332155,
+      "mcap": 9786236
     },
     {
       "rank": 9,
@@ -97,29 +97,29 @@
       "symbol": "DOLO",
       "category": "Lending",
       "tier": "HYPERLIQUID-GRADE",
-      "earnings_yield_pct": 42.07,
-      "annualized_revenue": 4175746,
-      "mcap": 9926298
+      "earnings_yield_pct": 41.42,
+      "annualized_revenue": 4192195,
+      "mcap": 10122337
     },
     {
       "rank": 10,
-      "name": "CoWSwap",
-      "symbol": "COW",
-      "category": "DEX Aggregator",
-      "tier": "HYPERLIQUID-GRADE",
-      "earnings_yield_pct": 38.58,
-      "annualized_revenue": 20085476,
-      "mcap": 52058658
-    },
-    {
-      "rank": 11,
       "name": "Usual USD0",
       "symbol": "USUAL",
       "category": "RWA",
       "tier": "HYPERLIQUID-GRADE",
-      "earnings_yield_pct": 30.45,
-      "annualized_revenue": 6125187,
-      "mcap": 20113747
+      "earnings_yield_pct": 26.12,
+      "annualized_revenue": 6109261,
+      "mcap": 23390215
+    },
+    {
+      "rank": 11,
+      "name": "Veranta",
+      "symbol": "AVNT",
+      "category": "Derivatives",
+      "tier": "HYPERLIQUID-GRADE",
+      "earnings_yield_pct": 22.23,
+      "annualized_revenue": 6351377,
+      "mcap": 28572481
     },
     {
       "rank": 12,
@@ -127,9 +127,9 @@
       "symbol": "OVER",
       "category": "Prediction Market",
       "tier": "HYPERLIQUID-GRADE",
-      "earnings_yield_pct": 25.5,
-      "annualized_revenue": 2506747,
-      "mcap": 9828922
+      "earnings_yield_pct": 20.93,
+      "annualized_revenue": 2046957,
+      "mcap": 9782301
     },
     {
       "rank": 13,
@@ -137,149 +137,149 @@
       "symbol": "GNS",
       "category": "Derivatives",
       "tier": "HIGH-YIELD",
-      "earnings_yield_pct": 17.99,
-      "annualized_revenue": 1487874,
-      "mcap": 8268682
+      "earnings_yield_pct": 19.51,
+      "annualized_revenue": 1533779,
+      "mcap": 7860821
     },
     {
       "rank": 14,
-      "name": "Lido",
-      "symbol": "LDO",
-      "category": "Liquid Staking",
+      "name": "CoWSwap",
+      "symbol": "COW",
+      "category": "DEX Aggregator",
       "tier": "HIGH-YIELD",
-      "earnings_yield_pct": 17.08,
-      "annualized_revenue": 38520385,
-      "mcap": 225543511
+      "earnings_yield_pct": 18.24,
+      "annualized_revenue": 20739507,
+      "mcap": 113678535
     },
     {
       "rank": 15,
-      "name": "Aethir",
-      "symbol": "ATH",
-      "category": "Developer Tools",
-      "tier": "HIGH-YIELD",
-      "earnings_yield_pct": 16.45,
-      "annualized_revenue": 13396303,
-      "mcap": 81437138
-    },
-    {
-      "rank": 16,
-      "name": "Veranta",
-      "symbol": "AVNT",
-      "category": "Derivatives",
-      "tier": "HIGH-YIELD",
-      "earnings_yield_pct": 14.38,
-      "annualized_revenue": 3927181,
-      "mcap": 27315609
-    },
-    {
-      "rank": 17,
       "name": "Yield Basis",
       "symbol": "YB",
       "category": "Leveraged Farming",
       "tier": "HIGH-YIELD",
-      "earnings_yield_pct": 14.09,
-      "annualized_revenue": 1795058,
-      "mcap": 12737040
+      "earnings_yield_pct": 14.21,
+      "annualized_revenue": 1799255,
+      "mcap": 12662498
+    },
+    {
+      "rank": 16,
+      "name": "Lido",
+      "symbol": "LDO",
+      "category": "Liquid Staking",
+      "tier": "HIGH-YIELD",
+      "earnings_yield_pct": 13.26,
+      "annualized_revenue": 38294024,
+      "mcap": 288886443
+    },
+    {
+      "rank": 17,
+      "name": "Aethir",
+      "symbol": "ATH",
+      "category": "Developer Tools",
+      "tier": "HIGH-YIELD",
+      "earnings_yield_pct": 12.57,
+      "annualized_revenue": 13396303,
+      "mcap": 106600930
     },
     {
       "rank": 18,
-      "name": "Bankr",
-      "symbol": "BNKR",
-      "category": "Interface",
-      "tier": "HIGH-YIELD",
-      "earnings_yield_pct": 12.6,
-      "annualized_revenue": 2893112,
-      "mcap": 22962687
-    },
-    {
-      "rank": 19,
       "name": "Tornado Cash",
       "symbol": "TORN",
       "category": "Privacy",
       "tier": "HIGH-YIELD",
-      "earnings_yield_pct": 12.26,
-      "annualized_revenue": 2590977,
-      "mcap": 21133513
+      "earnings_yield_pct": 11.67,
+      "annualized_revenue": 2482085,
+      "mcap": 21269352
     },
     {
-      "rank": 20,
-      "name": "SSV Network",
-      "symbol": "SSV",
-      "category": "Staking Pool",
-      "tier": "HIGH-YIELD",
-      "earnings_yield_pct": 11.94,
-      "annualized_revenue": 3251250,
-      "mcap": 27239940
-    },
-    {
-      "rank": 21,
+      "rank": 19,
       "name": "Strike Finance Perpetuals",
       "symbol": "STRIKE",
       "category": "Derivatives",
-      "tier": "HIGH-YIELD",
-      "earnings_yield_pct": 10.43,
-      "annualized_revenue": 904786,
-      "mcap": 8675521
+      "tier": "MODERATE",
+      "earnings_yield_pct": 9.83,
+      "annualized_revenue": 921138,
+      "mcap": 9371409
     },
     {
-      "rank": 22,
+      "rank": 20,
       "name": "Definitive",
       "symbol": "EDGE",
       "category": "DEX Aggregator",
       "tier": "MODERATE",
-      "earnings_yield_pct": 9.75,
-      "annualized_revenue": 1952069,
-      "mcap": 20025910
+      "earnings_yield_pct": 8.97,
+      "annualized_revenue": 1773024,
+      "mcap": 19769240
     },
     {
-      "rank": 23,
+      "rank": 21,
       "name": "World Liberty Financial",
       "symbol": "WLFI",
       "category": "Lending",
       "tier": "MODERATE",
-      "earnings_yield_pct": 8.56,
-      "annualized_revenue": 129008885,
-      "mcap": 1506627830
+      "earnings_yield_pct": 8.83,
+      "annualized_revenue": 127923521,
+      "mcap": 1448943848
     },
     {
-      "rank": 24,
+      "rank": 22,
+      "name": "SSV Network",
+      "symbol": "SSV",
+      "category": "Staking Pool",
+      "tier": "MODERATE",
+      "earnings_yield_pct": 8.6,
+      "annualized_revenue": 3210723,
+      "mcap": 37347730
+    },
+    {
+      "rank": 23,
       "name": "Tree News",
       "symbol": "TREE",
       "category": "SoFi",
       "tier": "MODERATE",
-      "earnings_yield_pct": 8.03,
-      "annualized_revenue": 1230379,
-      "mcap": 15316476
+      "earnings_yield_pct": 8.15,
+      "annualized_revenue": 1245538,
+      "mcap": 15291038
     },
     {
-      "rank": 25,
+      "rank": 24,
       "name": "THORChain DEX",
       "symbol": "RUNE",
       "category": "Dexs",
       "tier": "MODERATE",
-      "earnings_yield_pct": 7.63,
-      "annualized_revenue": 12933520,
-      "mcap": 169466659
+      "earnings_yield_pct": 7.7,
+      "annualized_revenue": 13141205,
+      "mcap": 170705172
     },
     {
-      "rank": 26,
-      "name": "Umia",
-      "symbol": "UMIA",
-      "category": "Launchpad",
-      "tier": "MODERATE",
-      "earnings_yield_pct": 7.54,
-      "annualized_revenue": 608419,
-      "mcap": 8072486
-    },
-    {
-      "rank": 27,
+      "rank": 25,
       "name": "Geodnet",
       "symbol": "GEOD",
       "category": "Oracle",
       "tier": "MODERATE",
-      "earnings_yield_pct": 7.38,
-      "annualized_revenue": 11583543,
-      "mcap": 157011936
+      "earnings_yield_pct": 7.66,
+      "annualized_revenue": 11598252,
+      "mcap": 151426792
+    },
+    {
+      "rank": 26,
+      "name": "The Index",
+      "symbol": "INDEX",
+      "category": "Indexes",
+      "tier": "MODERATE",
+      "earnings_yield_pct": 7.5,
+      "annualized_revenue": 387642,
+      "mcap": 5171378
+    },
+    {
+      "rank": 27,
+      "name": "Umia",
+      "symbol": "UMIA",
+      "category": "Launchpad",
+      "tier": "MODERATE",
+      "earnings_yield_pct": 7.41,
+      "annualized_revenue": 574121,
+      "mcap": 7746212
     },
     {
       "rank": 28,
@@ -287,32 +287,22 @@
       "symbol": "OPN",
       "category": "Prediction Market",
       "tier": "MODERATE",
-      "earnings_yield_pct": 7.38,
-      "annualized_revenue": 401731,
-      "mcap": 5445768
+      "earnings_yield_pct": 7.31,
+      "annualized_revenue": 400734,
+      "mcap": 5481989
     },
     {
       "rank": 29,
-      "name": "The Index",
-      "symbol": "INDEX",
-      "category": "Indexes",
+      "name": "Ekubo",
+      "symbol": "EKUBO",
+      "category": "Dexs",
       "tier": "MODERATE",
-      "earnings_yield_pct": 7.38,
-      "annualized_revenue": 382861,
-      "mcap": 5185490
+      "earnings_yield_pct": 7.05,
+      "annualized_revenue": 478565,
+      "mcap": 6788988
     },
     {
       "rank": 30,
-      "name": "MorpheusAI",
-      "symbol": "MOR",
-      "category": "AI Agents",
-      "tier": "MODERATE",
-      "earnings_yield_pct": 7.14,
-      "annualized_revenue": 465594,
-      "mcap": 6516672
-    },
-    {
-      "rank": 31,
       "name": "Frankencoin",
       "symbol": "FCS",
       "category": "CDP",
@@ -322,14 +312,24 @@
       "mcap": 8413702
     },
     {
+      "rank": 31,
+      "name": "MorpheusAI",
+      "symbol": "MOR",
+      "category": "AI Agents",
+      "tier": "MODERATE",
+      "earnings_yield_pct": 6.93,
+      "annualized_revenue": 455788,
+      "mcap": 6581652
+    },
+    {
       "rank": 32,
       "name": "deBridge",
       "symbol": "DBR",
       "category": "Bridge",
       "tier": "MODERATE",
-      "earnings_yield_pct": 6.87,
-      "annualized_revenue": 5667355,
-      "mcap": 82511157
+      "earnings_yield_pct": 6.91,
+      "annualized_revenue": 5685666,
+      "mcap": 82282298
     },
     {
       "rank": 33,
@@ -337,19 +337,19 @@
       "symbol": "AQUA",
       "category": "Dexs",
       "tier": "MODERATE",
-      "earnings_yield_pct": 6.58,
-      "annualized_revenue": 681090,
-      "mcap": 10354564
+      "earnings_yield_pct": 6.72,
+      "annualized_revenue": 679813,
+      "mcap": 10109706
     },
     {
       "rank": 34,
-      "name": "Ekubo",
-      "symbol": "EKUBO",
-      "category": "Dexs",
+      "name": "Metaplex",
+      "symbol": "MPLX",
+      "category": "Launchpad",
       "tier": "MODERATE",
-      "earnings_yield_pct": 6.52,
-      "annualized_revenue": 476046,
-      "mcap": 7304589
+      "earnings_yield_pct": 6.22,
+      "annualized_revenue": 1836412,
+      "mcap": 29532212
     },
     {
       "rank": 35,
@@ -357,9 +357,9 @@
       "symbol": "CHIP",
       "category": "RWA",
       "tier": "MODERATE",
-      "earnings_yield_pct": 6.07,
-      "annualized_revenue": 3310587,
-      "mcap": 54499029
+      "earnings_yield_pct": 5.87,
+      "annualized_revenue": 3254182,
+      "mcap": 55467858
     },
     {
       "rank": 36,
@@ -367,129 +367,129 @@
       "symbol": "ORBIO",
       "category": "AI Agents",
       "tier": "MODERATE",
-      "earnings_yield_pct": 5.83,
-      "annualized_revenue": 1021440,
-      "mcap": 17528267
+      "earnings_yield_pct": 5.19,
+      "annualized_revenue": 932879,
+      "mcap": 17974574
     },
     {
       "rank": 37,
-      "name": "Metaplex",
-      "symbol": "MPLX",
-      "category": "Launchpad",
+      "name": "Bankr",
+      "symbol": "BNKR",
+      "category": "Interface",
       "tier": "MODERATE",
-      "earnings_yield_pct": 5.79,
-      "annualized_revenue": 1832665,
-      "mcap": 31630534
+      "earnings_yield_pct": 5.02,
+      "annualized_revenue": 2920158,
+      "mcap": 58192361
     },
     {
       "rank": 38,
       "name": "Convex Finance",
       "symbol": "CVX",
       "category": "Yield",
-      "tier": "MODERATE",
-      "earnings_yield_pct": 5.46,
-      "annualized_revenue": 7348509,
-      "mcap": 134529788
+      "tier": "LOW",
+      "earnings_yield_pct": 4.64,
+      "annualized_revenue": 7358473,
+      "mcap": 158449310
     },
     {
       "rank": 39,
-      "name": "Hyperlane",
-      "symbol": "HYPER",
-      "category": "Cross Chain Bridge",
-      "tier": "LOW",
-      "earnings_yield_pct": 4.46,
-      "annualized_revenue": 614636,
-      "mcap": 13796211
-    },
-    {
-      "rank": 40,
       "name": "Railgun",
       "symbol": "RAIL",
       "category": "Privacy",
       "tier": "LOW",
-      "earnings_yield_pct": 4.21,
-      "annualized_revenue": 4283737,
-      "mcap": 101724576
+      "earnings_yield_pct": 4.49,
+      "annualized_revenue": 4457611,
+      "mcap": 99365042
     },
     {
-      "rank": 41,
+      "rank": 40,
       "name": "Benqi Lending",
       "symbol": "QI",
       "category": "Lending",
       "tier": "LOW",
-      "earnings_yield_pct": 4,
-      "annualized_revenue": 469889,
-      "mcap": 11734820
+      "earnings_yield_pct": 4.06,
+      "annualized_revenue": 470254,
+      "mcap": 11595132
     },
     {
-      "rank": 42,
-      "name": "Stader",
-      "symbol": "SD",
-      "category": "Liquid Staking",
-      "tier": "LOW",
-      "earnings_yield_pct": 3.76,
-      "annualized_revenue": 256559,
-      "mcap": 6823193
-    },
-    {
-      "rank": 43,
-      "name": "Maya Protocol",
-      "symbol": "CACAO",
-      "category": "Cross Chain Bridge",
-      "tier": "LOW",
-      "earnings_yield_pct": 3.63,
-      "annualized_revenue": 439341,
-      "mcap": 12091792
-    },
-    {
-      "rank": 44,
-      "name": "Osmosis DEX",
-      "symbol": "OSMO",
-      "category": "Dexs",
-      "tier": "LOW",
-      "earnings_yield_pct": 3.41,
-      "annualized_revenue": 758239,
-      "mcap": 22261450
-    },
-    {
-      "rank": 45,
-      "name": "KAIO",
-      "symbol": "KAIO",
-      "category": "RWA",
-      "tier": "LOW",
-      "earnings_yield_pct": 3.17,
-      "annualized_revenue": 443962,
-      "mcap": 13991436
-    },
-    {
-      "rank": 46,
-      "name": "Concrete",
-      "symbol": "CT",
-      "category": "Onchain Capital Allocator",
-      "tier": "LOW",
-      "earnings_yield_pct": 2.93,
-      "annualized_revenue": 601680,
-      "mcap": 20525221
-    },
-    {
-      "rank": 47,
-      "name": "STON.fi",
-      "symbol": "STON",
-      "category": "Dexs",
-      "tier": "LOW",
-      "earnings_yield_pct": 2.23,
-      "annualized_revenue": 663071,
-      "mcap": 29792055
-    },
-    {
-      "rank": 48,
+      "rank": 41,
       "name": "Jupiter Aggregator",
       "symbol": "JUP",
       "category": "DEX Aggregator",
       "tier": "LOW",
-      "earnings_yield_pct": 2.21,
-      "annualized_revenue": 19188634,
-      "mcap": 866447819
+      "earnings_yield_pct": 3.7,
+      "annualized_revenue": 19957799,
+      "mcap": 539093476
+    },
+    {
+      "rank": 42,
+      "name": "Maya Protocol",
+      "symbol": "CACAO",
+      "category": "Cross Chain Bridge",
+      "tier": "LOW",
+      "earnings_yield_pct": 3.61,
+      "annualized_revenue": 436458,
+      "mcap": 12091792
+    },
+    {
+      "rank": 43,
+      "name": "Stader",
+      "symbol": "SD",
+      "category": "Liquid Staking",
+      "tier": "LOW",
+      "earnings_yield_pct": 3.59,
+      "annualized_revenue": 242044,
+      "mcap": 6742502
+    },
+    {
+      "rank": 44,
+      "name": "Hyperlane",
+      "symbol": "HYPER",
+      "category": "Cross Chain Bridge",
+      "tier": "LOW",
+      "earnings_yield_pct": 3.37,
+      "annualized_revenue": 610767,
+      "mcap": 18139633
+    },
+    {
+      "rank": 45,
+      "name": "Osmosis DEX",
+      "symbol": "OSMO",
+      "category": "Dexs",
+      "tier": "LOW",
+      "earnings_yield_pct": 3.36,
+      "annualized_revenue": 750331,
+      "mcap": 22303715
+    },
+    {
+      "rank": 46,
+      "name": "KAIO",
+      "symbol": "KAIO",
+      "category": "RWA",
+      "tier": "LOW",
+      "earnings_yield_pct": 3.15,
+      "annualized_revenue": 442988,
+      "mcap": 14052724
+    },
+    {
+      "rank": 47,
+      "name": "Concrete",
+      "symbol": "CT",
+      "category": "Onchain Capital Allocator",
+      "tier": "LOW",
+      "earnings_yield_pct": 2.99,
+      "annualized_revenue": 612240,
+      "mcap": 20491955
+    },
+    {
+      "rank": 48,
+      "name": "STON.fi",
+      "symbol": "STON",
+      "category": "Dexs",
+      "tier": "LOW",
+      "earnings_yield_pct": 2.35,
+      "annualized_revenue": 675262,
+      "mcap": 28728540
     },
     {
       "rank": 49,
@@ -497,9 +497,9 @@
       "symbol": "WMT",
       "category": "Services",
       "tier": "LOW",
-      "earnings_yield_pct": 2.17,
-      "annualized_revenue": 249867,
-      "mcap": 11534439
+      "earnings_yield_pct": 1.96,
+      "annualized_revenue": 250098,
+      "mcap": 12741061
     },
     {
       "rank": 50,
@@ -507,9 +507,9 @@
       "symbol": "ENS",
       "category": "Domains",
       "tier": "LOW",
-      "earnings_yield_pct": 1.71,
-      "annualized_revenue": 2817922,
-      "mcap": 164587937
+      "earnings_yield_pct": 1.79,
+      "annualized_revenue": 2955016,
+      "mcap": 165112415
     },
     {
       "rank": 51,
@@ -517,32 +517,12 @@
       "symbol": "VVV",
       "category": "Farm",
       "tier": "LOW",
-      "earnings_yield_pct": 1.44,
-      "annualized_revenue": 13774601,
-      "mcap": 953954083
+      "earnings_yield_pct": 1.41,
+      "annualized_revenue": 13806295,
+      "mcap": 976590380
     },
     {
       "rank": 52,
-      "name": "Render Network BME",
-      "symbol": "RENDER",
-      "category": "DePIN",
-      "tier": "LOW",
-      "earnings_yield_pct": 1.23,
-      "annualized_revenue": 9436175,
-      "mcap": 770222313
-    },
-    {
-      "rank": 53,
-      "name": "Safe",
-      "symbol": "SAFE",
-      "category": "Services",
-      "tier": "LOW",
-      "earnings_yield_pct": 1.18,
-      "annualized_revenue": 702844,
-      "mcap": 59663657
-    },
-    {
-      "rank": 54,
       "name": "stUSDT",
       "symbol": "STUSDT",
       "category": "RWA",
@@ -552,34 +532,54 @@
       "mcap": 9707097
     },
     {
-      "rank": 55,
+      "rank": 53,
+      "name": "Render Network BME",
+      "symbol": "RENDER",
+      "category": "DePIN",
+      "tier": "LOW",
+      "earnings_yield_pct": 1.13,
+      "annualized_revenue": 8578303,
+      "mcap": 756771271
+    },
+    {
+      "rank": 54,
       "name": "Axie Infinity",
       "symbol": "AXS",
       "category": "Gaming",
       "tier": "LOW",
       "earnings_yield_pct": 0.99,
-      "annualized_revenue": 1201617,
-      "mcap": 120954075
+      "annualized_revenue": 1181773,
+      "mcap": 119230186
+    },
+    {
+      "rank": 55,
+      "name": "Safe",
+      "symbol": "SAFE",
+      "category": "Services",
+      "tier": "LOW",
+      "earnings_yield_pct": 0.88,
+      "annualized_revenue": 702844,
+      "mcap": 79971714
     },
     {
       "rank": 56,
-      "name": "Hydration DEX",
-      "symbol": "HDX",
-      "category": "Dexs",
-      "tier": "LOW",
-      "earnings_yield_pct": 0.83,
-      "annualized_revenue": 298083,
-      "mcap": 35815296
-    },
-    {
-      "rank": 57,
       "name": "OpenLedger",
       "symbol": "OPEN",
       "category": "Decentralized AI",
       "tier": "LOW",
-      "earnings_yield_pct": 0.81,
-      "annualized_revenue": 245803,
-      "mcap": 30495929
+      "earnings_yield_pct": 0.87,
+      "annualized_revenue": 253359,
+      "mcap": 29150060
+    },
+    {
+      "rank": 57,
+      "name": "Hydration DEX",
+      "symbol": "HDX",
+      "category": "Dexs",
+      "tier": "LOW",
+      "earnings_yield_pct": 0.84,
+      "annualized_revenue": 298083,
+      "mcap": 35382143
     },
     {
       "rank": 58,
@@ -588,7 +588,7 @@
       "category": "Yield",
       "tier": "LOW",
       "earnings_yield_pct": 0.8,
-      "annualized_revenue": 285783,
+      "annualized_revenue": 285649,
       "mcap": 35676061
     },
     {
@@ -598,8 +598,8 @@
       "category": "Reserve Currency",
       "tier": "LOW",
       "earnings_yield_pct": 0.71,
-      "annualized_revenue": 1671080,
-      "mcap": 234407401
+      "annualized_revenue": 1674559,
+      "mcap": 234367828
     },
     {
       "rank": 60,
