@@ -54,6 +54,7 @@ const SOURCES = [
 
 const RELATED = [
   { href: "/crypto-fee-calculator", label: "Crypto fee calculator" },
+  { href: "/lightning-network-fee-calculator", label: "Lightning Network fee calculator" },
   { href: "/bitcoin-halving-schedule", label: "Bitcoin halving schedule" },
   { href: "/opportunities/bitcoin", label: "Bitcoin thesis" },
 ] as const;
