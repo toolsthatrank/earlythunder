@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-11-16T13:37:44.147Z",
+  "checked_at": "2026-11-23T15:57:18.137Z",
   "total": 746,
-  "ok": 496,
+  "ok": 510,
   "dead": [
     {
       "url": "https://fortune.com/crypto/2026/05/20/ice-ceo-jeffrey-sprecher-hyperliquid/",
@@ -25,6 +25,14 @@
       "source": "Lido Integrations",
       "cited_by": [
         "WSTETH"
+      ]
+    },
+    {
+      "url": "https://bloomberg.com/crypto/bitcoin-etf",
+      "status": 404,
+      "source": "Bloomberg",
+      "cited_by": [
+        "BTC"
       ]
     },
     {
@@ -100,14 +108,6 @@
       ]
     },
     {
-      "url": "https://globalfintechseries.com/finance/sky-system-is-generating-435m-in-annualized-protocol-revenue-and-168m-in-annualized-protocol-profits/",
-      "status": 404,
-      "source": "GlobalFintechSeries (SFF PR)",
-      "cited_by": [
-        "SKY"
-      ]
-    },
-    {
       "url": "https://chainwire.org/2026/01/29/sky-frontier-foundation-estimates-611m-in-sky-system-gross-revenue-for-2026-with-21-billion-usds-supply/",
       "status": 404,
       "source": "Chainwire (SFF PR)",
@@ -124,11 +124,27 @@
       ]
     },
     {
+      "url": "https://www.cmegroup.com/media-room/press-releases/2026/5/06/cme_group_announcesfirsttradesofnewavalancheandsuicryptocurrency.html",
+      "status": 404,
+      "source": "CME Group",
+      "cited_by": [
+        "AVAX"
+      ]
+    },
+    {
       "url": "https://www.kucoin.com/news/articles/hyperliquid-2025-annual-report-844m-revenue-anchors-growth-amidst-256m-token-open-challenge",
       "status": 404,
       "source": "KuCoin",
       "cited_by": [
         "AVAX"
+      ]
+    },
+    {
+      "url": "https://dune.com/beetle/banana-gun",
+      "status": 404,
+      "source": "Dune Analytics",
+      "cited_by": [
+        "BANANA"
       ]
     },
     {
@@ -233,6 +249,14 @@
       "source": "SEC",
       "cited_by": [
         "TON"
+      ]
+    },
+    {
+      "url": "https://bloomberg.com/xrp-etf",
+      "status": 404,
+      "source": "Bloomberg ETF",
+      "cited_by": [
+        "XRP"
       ]
     },
     {
@@ -380,14 +404,6 @@
       ]
     },
     {
-      "url": "https://defillama.com/chain/Dogecoin",
-      "status": 404,
-      "source": "DeFiLlama",
-      "cited_by": [
-        "DOGE"
-      ]
-    },
-    {
       "url": "https://www.worldbank.org/en/news/press-release/2018/08/23/world-bank-prices-first-global-blockchain-bond-raising-a110-million",
       "status": 404,
       "source": "World Bank",
@@ -396,11 +412,11 @@
       ]
     },
     {
-      "url": "https://dune.com/hildobby/NFTs",
+      "url": "https://defillama.com/chain/Manta%20Pacific",
       "status": 404,
-      "source": "Dune Analytics",
+      "source": "DefiLlama",
       "cited_by": [
-        "BLUR"
+        "MANTA"
       ]
     },
     {
@@ -420,6 +436,14 @@
       ]
     },
     {
+      "url": "https://defillama.com/chain/Qtum",
+      "status": 404,
+      "source": "DeFiLlama",
+      "cited_by": [
+        "QTUM"
+      ]
+    },
+    {
       "url": "https://coinmarketcap.com/currencies/memecoin-2",
       "status": 404,
       "source": "CoinMarketCap",
@@ -428,7 +452,7 @@
       ]
     }
   ],
-  "blocked": 179,
+  "blocked": 162,
   "unreachable": [
     {
       "url": "https://felix.hyperliquid.xyz",
@@ -454,10 +478,10 @@
       ]
     },
     {
-      "url": "https://www.cryptoninjas.net/news/binance-lists-morpho-with-6-5m-airdrop-for-bnb-holders-as-trading-volume-surges/",
+      "url": "https://www.cryptopolitan.com/sec-approves-bitwise-spot-link-etf/",
       "error": "timeout",
       "cited_by": [
-        "MORPHO"
+        "LINK"
       ]
     },
     {
@@ -486,6 +510,13 @@
       "error": "fetch failed",
       "cited_by": [
         "INJ"
+      ]
+    },
+    {
+      "url": "https://globalfintechseries.com/finance/sky-system-is-generating-435m-in-annualized-protocol-revenue-and-168m-in-annualized-protocol-profits/",
+      "error": "fetch failed",
+      "cited_by": [
+        "SKY"
       ]
     },
     {
@@ -521,13 +552,6 @@
       "error": "fetch failed",
       "cited_by": [
         "ATOM"
-      ]
-    },
-    {
-      "url": "https://www.geekmetaverse.com/the-ugc-metaverse-why-roblox-and-fortnite-are-winning-the-future/",
-      "error": "timeout",
-      "cited_by": [
-        "SAND"
       ]
     }
   ]
